@@ -1,0 +1,10 @@
+﻿{
+  "answers": [ "A1", "A2", "A3", "A4","A5","A6" ],
+  "question": "",
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Bốn câu thơ đầu nhắc đến những sự vật nào ngoan? Chọn nhiều đáp án đúng.",
+  "right_answer": [ "0","1","3","4" ]
+} 

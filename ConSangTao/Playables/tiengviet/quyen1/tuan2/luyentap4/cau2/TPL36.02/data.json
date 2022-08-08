@@ -1,0 +1,10 @@
+{
+  "answers": [ "m", "k", "i" ],
+  "question": "                     <#>m</#>  <#>k</#>          <#>i</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo các chữ cái vào các toa tàu theo trật tự bảng chữ cái.",
+  "right_answer": [ "m", "k", "i" ]
+}

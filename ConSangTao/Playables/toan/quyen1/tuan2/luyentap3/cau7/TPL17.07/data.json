@@ -1,0 +1,10 @@
+{
+  "answers": [ "" ],
+  "question": "                 Cả hai sợi dây có độ dài là:\n                 <#>32</#> dm + <#>12</#> dm = <#>44</#> dm",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống.",
+  "right_answer": [ "32", "12","44" ]
+}

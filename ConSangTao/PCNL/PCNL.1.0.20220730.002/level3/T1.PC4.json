@@ -1,0 +1,23 @@
+[
+    {
+    "key": "T1.PC4.BH1",
+    "text": "TT.1. Thật thà, ngay thẳng trong học tập, lao động và sinh hoạt hằng ngày; mạnh dạn nói lên ý kiến của mình.",
+"parents_code": "T1.PC4"
+    },
+    {
+    "key": "T1.PC4.BH2",
+    "text": "TT.2. Luôn giữ lời hứa; mạnh dạn nhận lỗi, sửa lỗi và bảo vệ cái đúng, cái tốt.",
+    "parents_code": "T1.PC4"
+    },
+   {
+    "key": "T1.PC4.BH3",
+    "text": "TT.3. Không tự tiện lấy đồ vật, tiền bạc của người thân, bạn bè, thầy cô và những người khác.",
+    "parents_code": "T1.PC4"
+    },
+   {
+    "key": "T1.PC4.BH4",
+    "text": "TT.4. Không đồng tình với các hành vi thiếu trung thực trong học tập và trong cuộc sống.",
+    "parents_code": "T1.PC4"
+    }
+    
+]

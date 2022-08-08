@@ -1,0 +1,10 @@
+{
+  "answers": [ "" ],
+  "question": "Đề bài cho biết độ dài sợi dây theo đơn vị <#>cm</#>\nĐề bài hỏi độ dài sợi dây  theo đơn vị <#>dm</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống.",
+  "right_answer": [ "cm", "dm" ]
+}

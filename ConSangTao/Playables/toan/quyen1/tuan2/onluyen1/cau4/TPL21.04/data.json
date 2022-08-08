@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "Trong các số hạng là: <#>15</#> và <#>2</#>\n Tổng là: <#>17</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống theo mẫu.",
+  "right_answer": [ "15", "2" ,"17"]
+}

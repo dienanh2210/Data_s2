@@ -1,0 +1,11 @@
+{
+  "answers": [ "4 chục", "5 chục", "9 chục" ],
+  "question": "Cửa hàng kem bán được 5 chục\n que kem trong buổi sáng. Buổi\n chiều bán được 4 chục que.\n Hỏi cả hai buổi cửa hàng bán được\n bao nhiêu que kem?",
+  "description": "Tóm tắt:\n Sáng: <#>5 chục</#> que kem \n Chiều: <#>4 chục</#>  que kem \n  Cả hai buổi: bao nhiêu \n  que kem?",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo số thích hợp vào chỗ chấm để hoàn thành tóm tắt bài toán.",
+  "right_answer": [ "5 chục", "4 chục" ]
+}

@@ -1,0 +1,10 @@
+{
+  "answers": [ "nghe", "nge", "nghiêng", "nghiêng" ],
+  "question": "Mình đang<#>nghe</#>nhạc.\nEm bé nằm <#>nghiêng</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Chọn kéo tiếng phù hợp vào chỗ trống để hoàn thành câu.",
+  "right_answer": [ "nghe", "nghiêng" ]
+}

@@ -1,0 +1,1771 @@
+{
+  "book_id": "canhdieu.lop2.tiengviet.quyen1",
+  "name": "Tiếng Việt- Quyển 1",
+  "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q1-bia1.png",
+  "created_date": "",
+  "status": "",
+  "weeks": [
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan1",
+      "name": "TUẦN 1: CUỘC SỐNG QUANH EM",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 1: Bi đã lớn",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/TI%E1%BA%BENG+VI%E1%BB%86T+2+(+QUY%E1%BB%82N+1+)+-+C%C3%81I+TR%E1%BB%90NG+TR%C6%AF%E1%BB%9CNG+EM+-+%5B+H%E1%BB%8CC+LI%E1%BB%86U+S%E1%BB%90+CON+S%C3%81NG+T%E1%BA%A0O+%5D.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1.cau1",
+              "playable": "TPL9.PL1",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH1.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC1"
+                }
+              ],
+              "yccd": "Hiểu nội dung văn bản truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1.cau2",
+              "playable": "TPL9.PL2",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH1.BHCT4"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC1"
+                }
+              ],
+              "yccd": "Hiểu nội dung văn bản truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1.cau3",
+              "playable": "TPL10.03",
+              "template": "TPL10",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC1"
+                }
+              ],
+              "yccd": "Hiểu nội dung văn bản truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1.cau4",
+              "playable": "TPL9.PL3",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH5"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC1"
+                }
+              ],
+              "yccd": "Hiểu nội dung văn bản truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1.cau5",
+              "playable": "TPL9.PL4",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH11"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC1"
+                }
+              ],
+              "yccd": "Hiểu nội dung văn bản truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1.cau6",
+              "playable": "TPL9.PL5",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH6"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC1.NLR2"
+                }
+              ],
+              "yccd": "Liên hệ, so sánh, kết nối trong truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1.cau7",
+              "playable": "TPL7.07",
+              "template": "TPL7",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH7"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+              "yccd": "Từ chỉ sự vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1.cau8",
+              "playable": "TPL9.08",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH16"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+              "yccd": "Từ chỉ sự vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap1.cau9",
+              "playable": "TPL9.09",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH9"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+              "yccd": "Kiến thức tiếng Việt"
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 2: Ngoan",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2.cau1",
+              "playable": "TPL14.01",
+              "template": "TPL14",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH10"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC3"
+                }
+              ],
+              "yccd": "Hiểu nội dung văn bản thơ khoảng 70-80 chữ về chủ đề Bản thân"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2.cau2",
+              "playable": "TPL9.02",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH12"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC3"
+                }
+              ],
+              "yccd": "Hiểu hình thức văn bản văn bản thơ khoảng 70-80 chữ về chủ đề Bản thân"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2.cau3",
+              "playable": "TPL9.03",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH10"
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M2.NLC3"
+                }
+              ],
+              "yccd": "Hiểu hình thức văn bản văn bản thơ khoảng 70-80 chữ về chủ đề Bản thân"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2.cau4",
+              "playable": "TPL9.04",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH13"
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M2.NLC3"
+                }
+              ],
+              "yccd": "Hiểu hình thức văn bản văn bản thơ khoảng 70-80 chữ về chủ đề Bản thân"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2.cau5",
+              "playable": "TPL9.05",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH11"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC3"
+                }
+              ],
+              "yccd": "Hiểu hình thức văn bản văn bản thơ khoảng 70-80 chữ về chủ đề Bản thân"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2.cau6",
+              "playable": "TPL9.06",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH14"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC3"
+                }
+              ],
+              "yccd": "Hiểu hình thức văn bản văn bản thơ khoảng 70-80 chữ về chủ đề Bản thân"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2.cau7",
+              "playable": "TPL9.07",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH15"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+              "yccd": "Từ chỉ sự vật "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2.cau8",
+              "playable": "TPL9.08",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH16"
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M2.NLC2"
+                }
+              ],
+              "yccd": "Từ chỉ sự vật "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap2.cau9",
+              "playable": "TPL7.09",
+              "template": "TPL7",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH17"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+              "yccd": "Câu "
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Nói và nghe: Chào hỏi, tự giới thiệu",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap3.cau1",
+              "playable": "TPL9.01",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ],
+              "yccd": "Biết nói và đáp lại được lời chào hỏi, tự giới thiệu"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap3.cau2",
+              "playable": "TPL9.02",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ],
+              "yccd": "Biết nói và đáp lại được lời chào hỏi, tự giới thiệu"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap3.cau3",
+              "playable": "TPL2.PL11",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ],
+              "yccd": "Biết nói và đáp lại được lời chào hỏi, tự giới thiệu"
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 1:Bảng chữ cái. Phân biệt c/k",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap4.cau1",
+              "playable": "TPL8.01",
+              "template": "TPL8",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH18"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+              "yccd": "Bảng chữ cái"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap4.cau2",
+              "playable": "TPL9.02",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH19"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+              "yccd": "Bảng chữ cái"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap4.cau3",
+              "playable": "TPL4.03",
+              "template": "TPL4",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH20"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+              "yccd": "Bảng chữ cái"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap4.cau4",
+              "playable": "TPL20.04",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH20"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC5"
+                }
+              ],
+              "yccd": "Viết đúng các chữ có c/k"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap4.cau5",
+              "playable": "TPL7.05",
+              "template": "TPL7",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH3"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC5"
+                }
+              ],
+              "yccd": "Viết đúng các chữ có c/k"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap4.cau6",
+              "playable": "TPL7.06",
+              "template": "TPL7",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH4"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC5"
+                }
+              ],
+              "yccd": "Viết đúng các chữ c/k"
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 2: Tự giới thiệu",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap5.cau1",
+              "playable": "TPL9.01",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH5"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC5"
+                }
+              ],
+              "yccd": "Quy trình viết "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap5.cau2",
+              "playable": "TPL9.02",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH6"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC5"
+                }
+              ],
+              "yccd": "Quy trình viết "
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.luyentap5.cau3",
+              "playable": "TPL30.03",
+              "template": "TPL30",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH7"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC5"
+                }
+              ],
+              "yccd": " Viết được 2-3 câu giới thiệu bản thân "
+            }
+          ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1",
+          "name": "Luyện tập tổng hợp tuần 1 ",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau1",
+              "playable": "TPL9.01",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH21"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC6"
+                }
+              ],
+              "yccd":"Hiểu nội dung văn bản truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau2",
+              "playable": "TPL14.02",
+              "template": "TPL14",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH22"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC6"
+                }
+              ],
+             "yccd":"Hiểu nội dung văn bản truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau3",
+              "playable": "TPL9.03",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH23"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC6"
+                }
+              ],
+             "yccd":"Hiểu nội dung văn bản truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau4",
+              "playable": "TPL9.04",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH24"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC6"
+                }
+              ],
+             "yccd":"Hiểu nội dung văn bản truyện khoảng 150-175 chữ về chủ điểm Thiếu nhi"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau5",
+              "playable": "TPL5_n.05",
+              "template": "TPL5_n",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH25"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC6"
+                }
+              ],
+              "yccd":"Liên hệ , so sánh , kết nối trong văn bản truyện khoảng 150-175 chữ về chủ đề thiếu nhi"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau6",
+              "playable": "TPL9.06",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH26"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+            "yccd": "Từ chỉ sự vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau7",
+              "playable": "TPL9.07",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH27"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+            "yccd":"Câu"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau8",
+              "playable": "TPL8.08",
+              "template": "TPL8",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT2.BH28"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC2"
+                }
+              ],
+             "yccd":"Bảng chữ cái"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau9",
+              "playable": "TPL20.09",
+              "template": "TPL20",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC5"
+                }
+              ],
+             "yccd":"Viết đúng các chữ có c/k"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan1.onluyen1.cau10",
+              "playable": "TPL2.10",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH9"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ],
+             "yccd":"Viết được 2-3 câu giới thiệu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan2",
+      "name": "TUẦN 2: THỜI GIAN CỦA EM",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 1: Em mơ",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/TI%E1%BA%BENG+VI%E1%BB%86T+2+(+QUY%E1%BB%82N+1+)+-+C%C3%81I+TR%E1%BB%90NG+TR%C6%AF%E1%BB%9CNG+EM+-+%5B+H%E1%BB%8CC+LI%E1%BB%86U+S%E1%BB%90+CON+S%C3%81NG+T%E1%BA%A0O+%5D.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1.cau1",
+              "playable": "TPL9.PL1",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1.cau2",
+              "playable": "TPL5_n.02",
+              "template": "TPL5_n",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1.cau3",
+              "playable": "TPL9.03",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1.cau4",
+              "playable": "TPL31.04",
+              "template": "TPL31",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1.cau5",
+              "playable": "TPL9.05",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1.cau6",
+              "playable": "TPL5_n.06",
+              "template": "TPL5_n",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1.cau7",
+              "playable": "TPL32.07",
+              "template": "TPL32",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1.cau8",
+              "playable": "TPL14.08",
+              "template": "TPL14",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap1.cau9",
+              "playable": "TPL3.09",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 2: Những việc tốt",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/TI%E1%BA%BENG+VI%E1%BB%86T+2+(+QUY%E1%BB%82N+1+)+-+C%C3%81I+TR%E1%BB%90NG+TR%C6%AF%E1%BB%9CNG+EM+-+%5B+H%E1%BB%8CC+LI%E1%BB%86U+S%E1%BB%90+CON+S%C3%81NG+T%E1%BA%A0O+%5D.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2.cau1",
+              "playable": "TPL5_n_vuong.01",
+              "template": "TPL5_n_vuong",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2.cau2",
+              "playable": "TPL31.02",
+              "template": "TPL31",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2.cau3",
+              "playable": "TPL9.03",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2.cau4",
+              "playable": "TPL9.04",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2.cau5",
+              "playable": "TPL9.05",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2.cau6",
+              "playable": "TPL9.06",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2.cau7",
+              "playable": "TPL9.07",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2.cau8",
+              "playable": "TPL9.08",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap2.cau9",
+              "playable": "TPL2.09",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Nói và nghe: Kể chuyện Những việc tốt",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/TI%E1%BA%BENG+VI%E1%BB%86T+2+(+QUY%E1%BB%82N+1+)+-+C%C3%81I+TR%E1%BB%90NG+TR%C6%AF%E1%BB%9CNG+EM+-+%5B+H%E1%BB%8CC+LI%E1%BB%86U+S%E1%BB%90+CON+S%C3%81NG+T%E1%BA%A0O+%5D.mp4"
+          },
+          "tem_playables": 
+          [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap3.cau1",
+              "playable": "TPL33.01",
+              "template": "TPL33",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap3.cau2",
+              "playable": "TPL34.02",
+              "template": "TPL34",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap3.cau3",
+              "playable": "TPL5_n.03",
+              "template": "TPL5_n",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 1. Bảng chữ cái. Phân biệt ng/ngh",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/TI%E1%BA%BENG+VI%E1%BB%86T+2+(+QUY%E1%BB%82N+1+)+-+C%C3%81I+TR%E1%BB%90NG+TR%C6%AF%E1%BB%9CNG+EM+-+%5B+H%E1%BB%8CC+LI%E1%BB%86U+S%E1%BB%90+CON+S%C3%81NG+T%E1%BA%A0O+%5D.mp4"
+          },
+          "tem_playables":
+          [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap4.cau1",
+              "playable": "TPL35.01",
+              "template": "TPL35",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap4.cau2",
+              "playable": "TPL36.02",
+              "template": "TPL36",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap4.cau3",
+              "playable": "TPL4.03",
+              "template": "TPL4",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap4.cau4",
+              "playable": "TPL7.04",
+              "template": "TPL7",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap4.cau5",
+              "playable": "TPL38.05",
+              "template": "TPL38",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap4.cau6",
+              "playable": "TPL38.06",
+              "template": "TPL38",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            }
+
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 2: Viết tự thuật",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/TI%E1%BA%BENG+VI%E1%BB%86T+2+(+QUY%E1%BB%82N+1+)+-+C%C3%81I+TR%E1%BB%90NG+TR%C6%AF%E1%BB%9CNG+EM+-+%5B+H%E1%BB%8CC+LI%E1%BB%86U+S%E1%BB%90+CON+S%C3%81NG+T%E1%BA%A0O+%5D.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap5.cau1",
+              "playable": "TPL9.01",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap5.cau2",
+              "playable": "TPL14.02",
+              "template": "TPL14",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.luyentap5.cau3",
+              "playable": "TPL37.03",
+              "template": "TPL37",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1",
+          "name": "Luyện tập tổng hợp tuần 2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/TI%E1%BA%BENG+VI%E1%BB%86T+2+(+QUY%E1%BB%82N+1+)+-+C%C3%81I+TR%E1%BB%90NG+TR%C6%AF%E1%BB%9CNG+EM+-+%5B+H%E1%BB%8CC+LI%E1%BB%86U+S%E1%BB%90+CON+S%C3%81NG+T%E1%BA%A0O+%5D.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau1",
+              "playable": "TPL9.01",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau2",
+              "playable": "TPL9.02",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau3",
+              "playable": "TPL9.03",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau4",
+              "playable": "TPL9.04",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau5",
+              "playable": "TPL9.05",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau6",
+              "playable": "TPL39.06",
+              "template": "TPL39",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau7",
+              "playable": "TPL31.07",
+              "template": "TPL31",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau8",
+              "playable": "TPL9.08",
+              "template": "TPL9",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau9",
+              "playable": "TPL40.9",
+              "template": "TPL40",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.tiengviet.quyen1.tuan2.onluyen1.cau10",
+              "playable": "TPL41.10",
+              "template": "TPL41",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT7.TT1.BH2"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M2.NLC4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan3",
+      "name": "TUẦN 3: BẠN BÈ CỦA EM",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan3.lythuyet1",
+          "name": "Bài 1: Cộng trừ phép tính",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan3.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 1: Mâm quả biết đi",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan3.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 2: Cây tình bạn",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan3.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Nói và nghe: Kể chuyện Mâm quả biết đi",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan3.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 1: Bảng chữ cái. Phân biệt g/gh",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan3.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 2: Viết tên riêng theo thứ tự bảng chữ cái. Lập danh sách học sinh",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan3.onluyen1",
+          "name": "Luyện tập tổng hợp tuần 3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan4",
+      "name": "TUẦN 4: EM YÊU BẠN BÈ",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan4.lythuyet1",
+          "name": "Bài 1:Cộng trừ phép tính",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan4.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 1: Chơi rồng rắn",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan4.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 2: Bốn mắt dễ thương",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan4.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Nói và nghe. Kể chuyện: Bốn mắt dễ thương",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan4.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 1. Phân biệt r/d/gi; ch/tr; an/ang",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan4.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 2: Lập danh sách học sinh",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan4.onluyen1",
+          "name": "Luyện tập tổng hợp 4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan5",
+      "name": "TUẦN 5: NGÔI NHÀ THỨ HAI",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan5.lythuyet1",
+          "name": "Bài 1: Cộng trừ phép tính",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan5.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 1: Tiếng trống",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan5.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 2: Ngày khai trường",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan5.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Nói và nghe: Nói lời chào, chia tay, cảm ơn, xin lỗi. Giới thiệu về trường",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan5.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 1: Phân biệt l/n; i/iê; en/eng",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan5.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 2: Viết tên riêng",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan5.onluyen1",
+          "name": "Luyện tập tổng hợp tuần 5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan6",
+      "name": "TUẦN 6: EM YÊU TRƯỜNG EM",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan6.lythuyet1",
+          "name": "Bài 1:Cộng trừ phép tính",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan6.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 1: Chùm hoa giẻ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan6.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 2: Người rất quan trọng",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan6.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Nói và nghe: Kể chuyện Người rất quan trọng",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan6.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 1: Phân biệt s/x; dấu hỏi/dấu ngã",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan6.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 2: Viết về một lần mắc lỗi",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan6.onluyen1",
+          "name": "Luyện tập tổng hợp tuần 6",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan7",
+      "name": "TUẦN 7: THẦY CÔ CỦA EM",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan7.lythuyet1",
+          "name": "Bài đọc 1: Bàn tay cô giáo",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan7.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 1: Bàn tay cô giáo",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan7.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 2: Bài tập thú vị",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan7.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Nói và nghe: Bài tập thú vị",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan7.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 1. Phân biệt ch/tr; iên/iêng",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan7.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 2: Viết về một tiết học em thích",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan7.onluyen1",
+          "name": "Luyện tập tổng hợp tuần 7",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan8",
+      "name": "TUẦN 8: EM YÊU THẦY CÔ",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan8.lythuyet1",
+          "name": "Bài đọc 1: Cô giáo mới",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan8.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 1: Cô giáo mới",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan8.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài đọc 2: Tôi không thể",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan8.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Nói và nghe: Kể chuyện Cô giáo mới",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan8.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 1: Phân biệt r/d/gi; uôn/uông",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan8.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài viết 2: Viết về thầy cô",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.tiengviet.quyen1.tuan8.onluyen1",
+          "name": "Luyện tập tổng hợp tuần 8",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    }
+  ]
+}

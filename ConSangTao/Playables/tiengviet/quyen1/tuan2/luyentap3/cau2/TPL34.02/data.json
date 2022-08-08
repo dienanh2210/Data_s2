@@ -1,0 +1,10 @@
+{
+  "answers": [ "Tôi là mặt trời.", "Tôi là chim gõ kiến.", "Tôi là ong mật.", "Tôi là sáo nhỏ." ],
+  "questions": [ "Tôi mang đến ánh sáng ấm áp.", "Tôi làm ra mật ngọt, chuyển phấn hoa để giúp hoa kết quả.", "Tôi tặng muôn loài tiếng ca của tôi.", "Tôi bắt sâu cho cây." ],
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Đóng vai mỗi nhân vật trong câu chuyện, nối câu ở hai cột để hoàn thành <color=#fe7200>lời tự giới thiệu</color>.",
+  "right_answer": [ "0", "3", "1", "2" ]
+}

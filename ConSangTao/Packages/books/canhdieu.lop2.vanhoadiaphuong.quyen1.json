@@ -1,0 +1,219 @@
+{
+  "book_id": "canhdieu.lop2.vanhoadiaphuong.quyen1",
+  "name": "Văn hoá địa phương- Quyển 1",
+  "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q1-bia1.png",
+  "created_date": "",
+  "status": "",
+  "weeks": [
+    {
+      "week_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1",
+      "name": "Tuần 1: VĂN MIẾU - QUỐC TỬ GIÁM",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "DU TÍCH VĂN MIẾU - QUỐC TỬ GIÁM",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": ""
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap1.cau1",
+              "playable": "TPL6.01",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL4.BH3.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap1.cau2",
+              "playable": "TPL6.02",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap1.cau3",
+              "playable": "TPL53.03",
+              "template": "TPL53",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap1.cau4",
+              "playable": "TPL53.04",
+              "template": "TPL53",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "KHU VỰC VÒNG NGOÀI VĂN MIẾU - QUỐC TỬ GIÁM",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap2.cau1",
+              "playable": "TPL6.01",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "So sánh được các số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap2.cau2",
+              "playable": "TPL53.02",
+              "template": "TPL53",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap2.cau3",
+              "playable": "TPL53.03",
+              "template": "TPL53",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "KHUÊ VĂN CÁC, GIẾNG THIÊN QUANG",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap3.cau1",
+              "playable": "TPL52.01",
+              "template": "TPL52",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap3.cau2",
+              "playable": "TPL53.02",
+              "template": "TPL53",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.vanhoadiaphuong.quyen1.tuan1.luyentap3.cau3",
+              "playable": "TPL6.03",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "So sánh được các số có 2 chữ số"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

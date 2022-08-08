@@ -1,0 +1,22 @@
+[
+    {
+    "key": "T3.NLDT6.TPNL3.BH1",
+    "text": " GQVD.1. Nhận biết được vấn đề cần giải quyết và nêu được thành câu hỏi.",
+    "parents_code": "T3.NLDT6.TPNL3"
+    },
+    {
+    "key": "T3.NLDT6.TPNL3.BH2",
+    "text": "GQVD.2. Nêu được cách thức giải quyết vấn đề",
+    "parents_code": "T3.NLDT6.TPNL3"
+    },
+{
+    "key": "T3.NLDT6.TPNL3.BH3",
+    "text": "GQVD.3. Thực hiện và trình bày được cách thức giải quyết vấn đề ở mức độ đơn giản.",
+    "parents_code": "T3.NLDT6.TPNL3"
+    },
+{
+    "key": "T3.NLDT6.TPNL3.BH4",
+    "text": "GQVD.4. Kiểm tra được giải pháp đã thực hiện.",
+    "parents_code": "T3.NLDT6.TPNL3"
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "answers": [ "60", "70", "80", "90" ],
+  "question": "40 + 50 - 20 = <#>70</#> \n 60 - 30 + 50 = <#>80</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo số thích hợp vào chỗ chấm.",
+  "center": true,
+  "right_answer": [ "70", "80" ]
+}

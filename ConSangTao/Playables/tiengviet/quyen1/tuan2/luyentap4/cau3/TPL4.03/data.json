@@ -1,0 +1,10 @@
+{
+  "answers": [ "A1", "A2", "A3", "A4","A5" ],
+  "questions": [ "" ],
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Sắp xếp tên các bạn nhỏ theo thứ tự bảng chữ cái.",
+  "right_answer": [ "1","5", "3", "4", "2" ]
+}

@@ -1,0 +1,10 @@
+{
+  "answers": [ "Gõ kiến", "Ong mật", "Bài hát của chim sáo" ],
+  "question": "           <#>Gõ kiến</#> là bạn giúp hoa chuyển phấn. \n          <#>Ong mật</#> là bài hát tuyệt hay. \n          <#>thích</#>    là bác sĩ của rừng xanh.",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo từ ngữ thích hợp vào chỗ trống để tạo thành câu.",
+  "right_answer": [ "Gõ kiến", "Ong mật", "Bài hát của chim sáo" ]
+}

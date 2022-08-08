@@ -1,0 +1,10 @@
+{
+  "answers": [ "A1", "A2", "A3", "A4" ],
+  "questions": [ "Q1", "Q2" ],
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Nối từng từ ngữ với tên nhóm phù hợp.",
+  "right_answer": [ "0", "1","1","0" ]
+}

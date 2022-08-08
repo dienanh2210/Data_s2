@@ -1,0 +1,77 @@
+[
+    {
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT1",
+    "text": "TDLL1.1. Quan sát, phân tích, tổng hợp để đếm được số lượng đồ vật trong phạm vi 100 ",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+     {
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT2",
+    "text": "TDLL.1. TDLL.1.2 Phân tích và nói được (hoặc viết bằng chữ) một số có hai chữ số gồm mấy chục và mấy đơn vị",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+{
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT3",
+    "text": "TDLL.1.1 Nói và viết được một số tự nhiên có hai chữ số khi biết số đó gồm mấy chục và mấy đơn vị",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+     {
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT4",
+    "text": "TDLL.1.3 Phân tích và viết được một số có hai chữ số thành tổng của các chục và đơn vị",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+{
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT5",
+    "text": "TDLL1.1. Phân tích để so sánh được các số có 2 chữ số",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+     {
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT6",
+    "text": "TDLL.1.3 Phân tích và viết được một số có hai chữ số thành tổng của các chục và đơn vị",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+{
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT7",
+    "text": "TDLL1.1. Quan sát để khoanh được nhóm khoảng 10 đồ vật",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+     {
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT8",
+    "text": "TDLL1.2. Quan sát, phân tích để khoanh được đồ vật theo từng nhóm 1 chục và tổng hợp được kết quả.",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+{
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT9",
+    "text": "TDLL1.3. Quan sát, phân tích và tổng hợp để ước lượng được số lượng đồ vật trong phạm vi 100",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+     {
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT10",
+    "text": "TDLL1.1. Chỉ ra được số liền trước, số liền sau của một số cho trước",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+{
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT11",
+    "text": "TDLL.1.2. Chỉ ra được một số cho trước là số liền trước, liền sau của số nào.",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+     {
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT12",
+    "text": "TDLL1.1. Quan sát trên tia số và chỉ ra được số liền trước/ liền sau của một số",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+{
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT13",
+    "text": "TDLL.1.2. Quan sát trên tia số và chỉ ra được một số cho trước là số liền trước, liền sau của số nào",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+     {
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT14",
+    "text": "TDLL.1.2. Điền được các số liền trước và liền sau của một số trên tia số",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    },
+{
+    "key": "T3.NLDT6.TPNL1.BH1.BHCT15",
+    "text": "TDLL1.2. Quan sát tia số để chỉ ra được các số thỏa mãn yêu cầu cho trước.",
+    "parents_code": "T3.NLDT6.TPNL1.BH1"
+    }
+]

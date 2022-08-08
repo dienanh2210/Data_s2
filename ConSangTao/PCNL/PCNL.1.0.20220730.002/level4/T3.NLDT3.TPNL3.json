@@ -1,0 +1,27 @@
+[
+    {
+    "key": "T3.NLDT3.TPNL3.BH1",
+    "text": "PTTM.1. Chia sẻ được cảm nhận về đối tượng thẩm mĩ ở mức độ đơn giản.",
+    "parents_code": "T3.NLDT3.TPNL3"
+    },
+    {
+    "key": "T3.NLDT3.TPNL3.BH2",
+    "text": "PTTM.3. Biết tìm hiểu tác giả, sản phẩm, tác phẩm mĩ thuật.",
+    "parents_code": "T3.NLDT3.TPNL3"
+    },
+{
+    "key": "T3.NLDT3.TPNL3.BH3",
+    "text": "PTTM.3. Mô tả được một số yếu tố, dấu hiệu của nguyên lí tạo hình ở sản phẩm, tác phẩm mĩ thuật trong thực hành, thảo luận và liên hệ thực tiễn",
+    "parents_code": "T3.NLDT3.TPNL3"
+    },
+{
+    "key": "T3.NLDT3.TPNL3.BH4",
+    "text": "DGTM.1. Bước đầu đánh giá được đối tượng thẩm mĩ thông qua một số yếu tố và nguyên lí tạo hình",
+    "parents_code": "T3.NLDT3.TPNL3"
+    },
+{
+    "key": "T3.NLDT3.TPNL3.BH5",
+    "text": "DGTM.3. Bước đầu học hỏi được kinh nghiệm thực hành sáng tạo thông qua đánh giá đối tượng thẩm mĩ.",
+    "parents_code": "T3.NLDT3.TPNL3"
+    }
+]

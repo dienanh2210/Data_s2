@@ -1,0 +1,10 @@
+{
+  "answers": [ "Nam", "Thăng Long", "Lý" ],
+  "question": "Văn Miếu- Quốc Tử Giám nằm ở phía <#>Nam</#>\n của Kinh Thành <#>Thăng Long</#>    thời nhà  <#>Lý</#>",
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo từ thích hợp vào chỗ chấm.",
+  "center": true,
+  "right_answer": [ "Nam", "Thăng Long", "Lý" ]
+}

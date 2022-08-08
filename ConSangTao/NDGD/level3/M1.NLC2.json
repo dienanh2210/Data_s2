@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "key": "M1.NLC2.NLR1",
+            "text": "Tính nhẩm",
+            "parents_code": "M1"
+        },
+        {
+            "key": "M1.NLC2.NLR2",
+            "text": "Phép cộng, phép trừ",
+            "parents_code": "M1"
+        },
+        {
+            "key": "M1.NLC2.NLR3",
+            "text": "Thực hành giải quyết vấn đề liên quan đến các phép tính đã học",
+            "parents_code": "M1"
+        },
+        {
+            "key": "M1.NLC2.NLR4",
+            "text": "Số và cấu tạo thập phân của một số",
+            "parents_code": "M1"
+        }
+    ]
+}

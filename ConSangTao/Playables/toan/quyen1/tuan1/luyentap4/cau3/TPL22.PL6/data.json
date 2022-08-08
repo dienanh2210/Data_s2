@@ -1,0 +1,11 @@
+{
+  "answers": [ "46", "22", "68" ],
+  "question": "Đàn vịt có tất cả 46 con ở trên bờ\n hoặc đang bơi ở dưới ao. Có 22\n con đang ở trên bờ.\n Hỏi có bao nhiêu con ở dưới ao?",
+  "description": "Tóm tắt:\n Có tất cả: <#>68</#> con vịt \n Trên bờ: <#>46</#>  con vịt \n  Dưới ao: bao nhiêu con vịt?",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo số thích hợp vào chỗ chấm để hoàn thành tóm tắt bài toán.",
+  "right_answer": [ "46", "22" ]
+}

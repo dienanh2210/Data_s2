@@ -1,0 +1,10 @@
+{
+  "answers": [ ">", "<", "="],
+  "question": "75 <#>></#> 72",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo thả dấu thích hợp vào chỗ trống.",
+  "center": true,
+  "right_answer": [">" ]
+}

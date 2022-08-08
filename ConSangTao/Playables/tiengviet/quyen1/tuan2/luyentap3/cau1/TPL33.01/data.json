@@ -1,0 +1,10 @@
+﻿{
+  "answers": [ "A1", "A2", "A3", "A4" ],
+  "question": "",
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Sắp xếp các sự việc sau theo trật tự đúng trong câu chuyện <color=#fe7200>Những việc tốt</color>.",
+  "right_answer": [ "2","1","3","4" ]
+}

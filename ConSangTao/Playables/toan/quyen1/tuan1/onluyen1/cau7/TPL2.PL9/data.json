@@ -1,0 +1,10 @@
+{
+  "answers": [ "35-21=14(quyển)", "35+21=56(quyển)", "35+21=47(quyển)", "35-21=24(quyển)" ],
+  "question": "   Các bạn lớp 2A góp được 21 quyển truyện \n   cho thư viện trường, các bạn lớp 2B góp được 35 quyển. \n   Hỏi cả 2 lớp góp được bao nhiêu quyển cho thư viện trường? \n   Cả hai lớp góp được số quyển truyện là: <#>35+21=56(quyển)</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo dấu thích hợp vào chỗ chấm.",
+  "right_answer": [ "35+21=56(quyển)" ]
+}

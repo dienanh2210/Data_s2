@@ -1,0 +1,22 @@
+[
+    {
+    "key": "T3.NLDT2.TPNL3.BH1",
+    "text": "SDCN.1. Thực hiện được một số thao tác kĩ thuật đơn giản với các dụng cụ kĩ thuật.",
+    "parents_code": "T3.NLDT2.TPNL3"
+    },
+    {
+    "key": "T3.NLDT2.TPNL3.BH2",
+    "text": "SDCN.2. Sử dụng được một số sản phẩm công nghệ phổ biến trong gia đình.",
+    "parents_code": "T3.NLDT2.TPNL3"
+    },
+   {
+    "key": "T3.NLDT2.TPNL3.BH3",
+    "text": "SDCN.3. Nhận biết và phòng tránh được những tình huống nguy hiểm trong môi trường công nghệ ở gia đình.",
+    "parents_code": "T3.NLDT2.TPNL3"
+    },
+   {
+    "key": "T3.NLDT2.TPNL3.BH4",
+    "text": "SDCN.4. Thực hiện được một số công việc chăm sóc hoa và cây cảnh trong gia đình.",
+    "parents_code": "T3.NLDT2.TPNL3"
+    }
+]

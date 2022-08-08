@@ -1,0 +1,17 @@
+[
+    {
+    "key": "T3.NLĐT1.TPNL1",
+    "text": "Nhận thức khoa học",
+    "parents_code": "T3.NLĐT1"
+    },
+    {
+    "key": "T3.NLĐT1.TPNL2",
+    "text": "Tìm hiểu môi trường tự nhiên và xã hội xung quanh",
+    "parents_code": "T3.NLĐT1"
+    },
+    {
+    "key": "T2.NlĐT1.TPNL3",
+    "text": "Vận dụng kiến thức, kĩ năng đã học",
+    "parents_code": "T2.NLĐT1"
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "answers": [ "Em mơ làm mây trắng", "Em mơ làm nắng ấm", "Em mơ làm gió mát" ],
+  "questions": [ "để bay khắp nẻo trời cao, nhìn non sông gấm vóc.", "để xua nỗi nhọc nhằn của bác nông dân, chú công nhân.", "để đánh thức mầm xanh vươn lên, mang cơm no áo lành." ],
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Dựa vào bài đọc, hãy nối đúng.",
+  "right_answer": [ "0", "2", "1"]
+}

@@ -1,0 +1,18 @@
+[
+    {
+    "key": "T2.NLC1",
+    "text": "Tự chủ và tự học",
+    "parents_code": "T2"
+    },
+    {
+    "key": "T2.NLC2",
+    "text": "Giao tiếp và hợp tác",
+    "parents_code": "T2"
+    },
+ {
+    "key": "T2.NLC3",
+    "text": "GQVD và sáng tạo",
+    "parents_code": "T2"
+    }
+ 
+]

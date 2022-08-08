@@ -1,0 +1,3226 @@
+{
+  "book_id": "canhdieu.lop2.toan.quyen1",
+  "name": "Toán- Quyển 1",
+  "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q1-bia1.png",
+  "created_date": "",
+  "status": "",
+  "weeks": [
+    {
+      "week_id": "canhdieu.lop2.toan.quyen1.tuan1",
+      "name": "Tuần 1",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",      
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Ôn tập các số đến 100 (1)",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },         
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau1",
+              "playable": "TPL6.PL1",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL4.BH3.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau2",
+              "playable": "TPL6.PL2",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau3",
+              "playable": "TPL6.PL3",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau4",
+              "playable": "TPL6.PL4",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau5",
+              "playable": "TPL6.PL5",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau6",
+              "playable": "TPL6.PL6",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Đếm, đọc, viết các số tự nhiên trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau7",
+              "playable": "TPL6.PL7",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được hàng chục, hàng đơn vị của STN"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau8",
+              "playable": "TPL6.PL8",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được hàng chục, hàng đơn vị của STN"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau9",
+              "playable": "TPL6.PL9",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được hàng chục, hàng đơn vị của STN"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau10",
+              "playable": "TPL6.PL10",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "So sánh được các số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau11",
+              "playable": "TPL6.PL11",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "So sánh được các số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau12",
+              "playable": "TPL6.PL12",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "So sánh được các số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau13",
+              "playable": "TPL2.PL1",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "So sánh được các số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau14",
+              "playable": "TPL2.PL2",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "So sánh được các số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap1.cau15",
+              "playable": "TPL2.PL3",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "So sánh được các số có 2 chữ số"
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Ôn tập các số đến 100 (2)",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau1",
+              "playable": "TPL3.PL1",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "Sắp thứ tự được các số TN có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau2",
+              "playable": "TPL3.PL2",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "Sắp thứ tự được các số TN có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau3",
+              "playable": "TPL3.PL3",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd": "Sắp thứ tự được các số TN có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau4",
+              "playable": "TPL6.PL13",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR3"
+                }
+              ],
+              "yccd": "Ước lượng được nhóm 10 đồ vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau5",
+              "playable": "TPL6.PL14",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR3"
+                }
+              ],
+              "yccd": "Ước lượng được nhóm 10 đồ vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau6",
+              "playable": "TPL6.PL15",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR3"
+                }
+              ],
+              "yccd": "Ước lượng được nhóm 10 đồ vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau7",
+              "playable": "TPL6.PL16",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR3"
+                }
+              ],
+              "yccd": "Ước lượng được nhóm nhiều hơn 10 đồ vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau8",
+              "playable": "TPL6.PL17",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR3"
+                }
+              ],
+              "yccd": "Ước lượng được nhóm nhiều hơn 10 đồ vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau9",
+              "playable": "TPL6.PL18",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR3"
+                }
+              ],
+              "yccd": "Ước lượng được nhóm nhiều hơn 10 đồ vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau10",
+              "playable": "TPL1.PL1",
+              "template": "TPL1",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR3"
+                }
+              ],
+              "yccd": "Ước lượng theo nhóm 10 đồ vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau11",
+              "playable": "TPL1.PL2",
+              "template": "TPL1",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id":" M1.NLC1.NLR3"
+                }
+              ],
+              "yccd": "Ước lượng theo nhóm 10 đồ vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau12",
+              "playable": "TPL1.PL3",
+              "template": "TPL1",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR3"
+                }
+              ],
+              "yccd": "Ước lượng theo nhóm 10 đồ vật"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau13",
+              "playable": "TPL5.PL1",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1 "
+                }
+              ],
+              "yccd": "Nhận biết được hàng chục và hàng đơn vị của số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau14",
+              "playable": "TPL5.PL2",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được hàng chục và hàng đơn vị của số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap2.cau15",
+              "playable": "TPL5.PL3",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được hàng chục và hàng đơn vị của số có 2 chữ số"
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Ôn tập về phép cộng, phép trừ (không nhớ) trong phạm vi 100 (1)",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau1",
+              "playable": "TPL6.PL19",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR1"
+                }
+              ],
+              "yccd": "Cộng trừ nhẩm các số tròn chục trong phạm vi 1000"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau2",
+              "playable": "TPL6.PL20",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR1"
+                }
+              ],
+              "yccd": "Cộng trừ nhẩm các số tròn chục trong phạm vi 1000"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau3",
+              "playable": "TPL6.PL21",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR1"
+                }
+              ],
+              "yccd": "Cộng trừ nhẩm các số tròn chục trong phạm vi 1000"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau4",
+              "playable": "TPL6.PL22",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR1"
+                }
+              ],
+              "yccd": "Thực hiện được cộng/ trừ nhẩm trong phạm vi 20"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau5",
+              "playable": "TPL6.PL23",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR1"
+                }
+              ],
+              "yccd": "Thực hiện được cộng/ trừ nhẩm trong phạm vi 20"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau6",
+              "playable": "TPL6.PL24",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                 {
+                  "id": "M1.NLC2.NLR1"
+                }
+              ],
+              "yccd": "Thực hiện được cộng/ trừ nhẩm trong phạm vi 20"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau7",
+              "playable": "TPL6.PL25",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC2.NLR2"
+                }
+              ],
+              "yccd": "Thực hiện được việc tính toán trong trường hợp có hai dấu phép tính cộng, trừ (theo thứ tự từ trái sang phải)"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau8",
+              "playable": "TPL6.PL26",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR2"
+                }
+              ],
+              "yccd": "Thực hiện được việc tính toán trong trường hợp có hai dấu phép tính cộng, trừ (theo thứ tự từ trái sang phải)"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau9",
+              "playable": "TPL6.PL27",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR2"
+                }
+              ],
+              "yccd": "Thực hiện được việc tính toán trong trường hợp có hai dấu phép tính cộng, trừ (theo thứ tự từ trái sang phải)"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau10",
+              "playable": "TPL6.PL28",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR2"
+                }
+              ],
+              "yccd": "Thực hiện được các phép tính cộng/ trừ không nhớ trong phạm vi 1000"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau11",
+              "playable": "TPL6.PL29",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR2"
+                }
+              ],
+              "yccd": "Thực hiện được các phép tính cộng/ trừ không nhớ trong phạm vi 1000"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau12",
+              "playable": "TPL6.PL30",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR2"
+                }
+              ],
+              "yccd": "Thực hiện được các phép tính cộng/ trừ không nhớ trong phạm vi 1000"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau13",
+              "playable": "TPL6.PL31",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC2.NLR2"
+                }
+              ],
+              "yccd": "Thực hiện được các phép tính cộng/ trừ không nhớ trong phạm vi 1000"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau14",
+              "playable": "TPL6.PL32",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR2"
+                }
+              ],
+              "yccd": "Thực hiện được các phép tính cộng/ trừ không nhớ trong phạm vi 1000"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap3.cau15",
+              "playable": "TPL6.PL33",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR2"
+                }
+              ],
+              "yccd": "Thực hiện được các phép tính cộng/ trừ không nhớ trong phạm vi 1000"
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Ôn tập về phép cộng, phép trừ (không nhớ) trong phạm vi 100 (2)",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau1",
+              "playable": "TPL22.PL4",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau2",
+              "playable": "TPL22.PL5",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau3",
+              "playable": "TPL22.PL6",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau4",
+              "playable": "TPL5.PL15",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau5",
+              "playable": "TPL5.PL4",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau6",
+              "playable": "TPL5.PL5",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau7",
+              "playable": "TPL5.PL6",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau8",
+              "playable": "TPL5.PL7",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau9",
+              "playable": "TPL5.PL8",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau10",
+              "playable": "TPL5.PL9",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau11",
+              "playable": "TPL5.PL10",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau12",
+              "playable": "TPL5.PL11",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau13",
+              "playable": "TPL5.PL12",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau14",
+              "playable": "TPL5.PL13",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap4.cau15",
+              "playable": "TPL5.PL14",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd": "Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Tia số. Số liền trước – Số liền sau (1)",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Bài 1:Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau1",
+              "playable": "TPL6.PL34",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau2",
+              "playable": "TPL6.PL35",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau3",
+              "playable": "TPL6.PL36",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau4",
+              "playable": "TPL6.PL37",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau5",
+              "playable": "TPL6.PL38",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau6",
+              "playable": "TPL6.PL39",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau7",
+              "playable": "TPL6.PL40",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR4"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau8",
+              "playable": "TPL6.PL41",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau9",
+              "playable": "TPL6.PL42",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau10",
+              "playable": "TPL6.PL43",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau11",
+              "playable": "TPL6.PL44",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau12",
+              "playable": "TPL6.PL45",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau13",
+              "playable": "TPL5.PL16",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+               {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau14",
+              "playable": "TPL5.PL17",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.luyentap5.cau15",
+              "playable": "TPL5.PL18",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": ""
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được tia số và viết được số thích hợp trên tia số"
+            }
+          ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1",
+          "name": "Bài luyện tập số 1 - Tuần 1",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables":
+          [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau1",
+              "playable": "TPL6.PL46",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+               
+              ],
+                "yccd": "Đếm, đọc, viết được các số tự nhiên có 2 chữ số"
+              
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau2",
+              "playable": "TPL2.PL7",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR1"
+                }
+              ],
+                "yccd": "Cộng trừ nhẩm các số tròn chục trong phạm vi 1000"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau3",
+              "playable": "TPL7.PL1",
+              "template": "TPL7",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd":"So sánh được các số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau4",
+              "playable": "TPL6.PL47",
+              "template": "TPL4",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd": "Nhận biết được vị trí các số trên tia số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau5",
+              "playable": "TPL2.PL8",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd":"Thực hiện được việc tính toán trong trường hợp có hai dấu phép tính cộng, trừ (theo thứ tự từ trái sang phải)"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau6",
+              "playable": "TPL3.PL4",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR2"
+                }
+              ],
+              "yccd":"Sắp thứ tự được các số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau7",
+              "playable": "TPL2.PL9",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR3"
+                }
+              ],
+              "yccd":"Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau8",
+              "playable": "TPL8.PL1",
+              "template": "TPL8",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC2.NLR4"
+                }
+              ],
+              "yccd":"Số và cấu tạo thập phân của một số Nhận biết được hàng chục và hàng đơn vị của số có 2 chữ số"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau9",
+              "playable": "TPL6.PL48",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR3"
+                }
+              ],
+              "yccd":"Ước lượng được nhóm đồ vật trong phạm vi 100"
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan1.onluyen1.cau10",
+              "playable": "TPL2.PL10",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1"
+                }
+              ],
+              "yccd":"Thực hiện được việc giải quyết vấn đề liên quan đến các phép tính cộng trừ trong phạm vi 100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan2",
+      "name": "Tuần 2",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",    
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Tia số. Số liền trước. Số liền sau (2)",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau1",
+              "playable": "TPL6.01",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau2",
+              "playable": "TPL6.02",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau3",
+              "playable": "TPL6.03",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau4",
+              "playable": "TPL6.04",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau5",
+              "playable": "TPL6.05",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau6",
+              "playable": "TPL6.06",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau7",
+              "playable": "TPL13.07",
+              "template": "TPL13",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau8",
+              "playable": "TPL15.08",
+              "template": "TPL15",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau9",
+              "playable": "TPL5.09",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau10",
+              "playable": "TPL16.10",
+              "template": "TPL16",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau11",
+              "playable": "TPL2.01",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau12",
+              "playable": "TPL2.02",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau13",
+              "playable": "TPL5.13",
+              "template": "TPL13",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau14",
+              "playable": "TPL3.14",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap1.cau15",
+              "playable": "TPL3.15",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Đề-xi-mét (1)",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": 
+          [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau1",
+              "playable": "TPL111.01",
+              "template": "TPL11",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau2",
+              "playable": "TPL162.02",
+              "template": "TPL162",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau3",
+              "playable": "TPL6.03",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau4",
+              "playable": "TPL1.04",
+              "template": "TPL1",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau5",
+              "playable": "TPL1.05",
+              "template": "TPL1",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau6",
+              "playable": "TPL1.06",
+              "template": "TPL1",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau7",
+              "playable": "TPL6.07",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau8",
+              "playable": "TPL6.08",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau9",
+              "playable": "TPL6.09",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau10",
+              "playable": "TPL2.10",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau11",
+              "playable": "TPL162.11",
+              "template": "TPL162",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau12",
+              "playable": "TPL162.12",
+              "template": "TPL162",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau13",
+              "playable": "TPL3.13",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau14",
+              "playable": "TPL3.14",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap2.cau15",
+              "playable": "TPL3.15",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Đề-xi-mét (2)",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": 
+          [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau1",
+              "playable": "TPL15.01",
+              "template": "TPL15",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau2",
+              "playable": "TPL15.02",
+              "template": "TPL15",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau3",
+              "playable": "TPL16.03",
+              "template": "TPL16",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau4",
+              "playable": "TPL17.04",
+              "template": "TPL17",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau5",
+              "playable": "TPL12_img.05",
+              "template": "TPL12_img",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau6",
+              "playable": "TPL12_img2.06",
+              "template": "TPL12_img2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau7",
+              "playable": "TPL17.07",
+              "template": "TPL17",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau8",
+              "playable": "TPL162.08",
+              "template": "TPL162",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau9",
+              "playable": "TPL18.09",
+              "template": "TPL18",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau10",
+              "playable": "TPL5.10",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau11",
+              "playable": "TPL5.11",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau12",
+              "playable": "TPL5.12",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau13",
+              "playable": "TPL6.13",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau14",
+              "playable": "TPL6.14",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap3.cau15",
+              "playable": "TPL6.15",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Số hạng - Tổng",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables": 
+          [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau1",
+              "playable": "TPL19.01",
+              "template": "TPL19",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau2",
+              "playable": "TPL15.02",
+              "template": "TPL15",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau3",
+              "playable": "TPL5_n.03",
+              "template": "TPL5_n",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau4",
+              "playable": "TPL19.04",
+              "template": "TPL19",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau5",
+              "playable": "TPL20.05",
+              "template": "TPL20",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau6",
+              "playable": "TPL20.06",
+              "template": "TPL20",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau7",
+              "playable": "TPL21.07",
+              "template": "TPL21",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau8",
+              "playable": "TPL21.08",
+              "template": "TPL21",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau9",
+              "playable": "TPL21.09",
+              "template": "TPL21",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau10",
+              "playable": "TPL23.10",
+              "template": "TPL23",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau11",
+              "playable": "TPL23.11",
+              "template": "TPL23",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau12",
+              "playable": "TPL23.12",
+              "template": "TPL23",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau13",
+              "playable": "TPL24.13",
+              "template": "TPL24",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau14",
+              "playable": "TPL24.14",
+              "template": "TPL24",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap4.cau15",
+              "playable": "TPL24.15",
+              "template": "TPL24",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Số bị trừ - Số trừ - Hiệu",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables":
+          [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau1",
+              "playable": "TPL20.01",
+              "template": "TPL20",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau2",
+              "playable": "TPL20.02",
+              "template": "TPL20",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau3",
+              "playable": "TPL5_n.03",
+              "template": "TPL5_n",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau4",
+              "playable": "TPL25.04",
+              "template": "TPL25",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau5",
+              "playable": "TPL25.05",
+              "template": "TPL25",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau6",
+              "playable": "TPL25.06",
+              "template": "TPL25",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau7",
+              "playable": "TPL26.07",
+              "template": "TPL26",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau8",
+              "playable": "TPL26.08",
+              "template": "TPL26",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau9",
+              "playable": "TPL26.09",
+              "template": "TPL26",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau10",
+              "playable": "TPL27.10",
+              "template": "TPL27",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau11",
+              "playable": "TPL27.11",
+              "template": "TPL27",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau12",
+              "playable": "TPL27.12",
+              "template": "TPL27",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau13",
+              "playable": "TPL27.13",
+              "template": "TPL27",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau14",
+              "playable": "TPL27.14",
+              "template": "TPL27",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.luyentap5.cau15",
+              "playable": "TPL27.15",
+              "template": "TPL27",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1",
+          "name": "Bài luyện tập số 1 - Tuần 2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lessons": {
+            "lesson_id": "canhdieu.lop2.toan.quyen1.tuan1.lythuyet1",
+            "name": "Cộng trừ phép tính",
+            "lesson_image": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/anh+sach+1.jpg",
+            "lesson_audio": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/C%C3%A2u+chuy%E1%BB%87n+con+c%E1%BB%ABu+%C4%91en+k%C3%AAu+be+be.mp3",
+            "lesson_video": "https://s3.ap-southeast-1.amazonaws.com/cst.data.public/resources/lesson_cover_img/phep+cong+co+nho+trong+pham+vi+20.mp4"
+          },
+          "tem_playables":
+          [
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau1",
+              "playable": "TPL8.01",
+              "template": "TPL8",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau2",
+              "playable": "TPL7.02",
+              "template": "TPL7",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau3",
+              "playable": "TPL6.03",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau4",
+              "playable": "TPL21.04",
+              "template": "TPL21",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau5",
+              "playable": "TPL3.05",
+              "template": "TPL3",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau6",
+              "playable": "TPL28.06",
+              "template": "TPL28",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau7",
+              "playable": "TPL5.07",
+              "template": "TPL5",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau8",
+              "playable": "TPL6.08",
+              "template": "TPL6",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau9",
+              "playable": "TPL2.09",
+              "template": "TPL2",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            },
+            {
+              "tem_playable_id": "canhdieu.lop2.toan.quyen1.tuan2.onluyen1.cau10",
+              "playable": "TPL29.10",
+              "template": "TPL29",
+              "pcnl": [
+                {
+                  "id": "T3.NLDT6.TPNL1.BH2.BHCT1"
+                }
+              ],
+              "ndgd": [
+                {
+                  "id": "M1.NLC1.NLR1.BH1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan3",
+      "name": "Tuần 3",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan3.lythuyet1",
+          "name": "Cộng trừ phép tính",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan3.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập chung",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan3.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập phép cộng (không nhớ) trong phạm vi 20",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan3.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Phép cộng (có nhớ) trong phạm vi 20",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan3.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Phép cộng (có nhớ) trong phạm vi 20 ( tiếp theo) ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan3.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập (1)",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan3.onluyen1",
+          "name": "Bài luyện tập số 1 - Tuần 3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan4",
+      "name": "Tuần 4",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan4.lythuyet1",
+          "name": "Cộng trừ phép tính",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan4.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập (2)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan4.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bảng cộng (có nhớ) trong phạm vi 20 (1)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan4.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bảng cộng (có nhớ) trong phạm vi 20 (2)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan4.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập (1)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan4.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập (2)",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan4.onluyen1",
+          "name": "Bài luyện tập số 1 - Tuần 4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan5",
+      "name": "Tuần 5",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan5.lythuyet1",
+          "name": "Cộng trừ phép tính",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan5.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập chung ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan5.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập phép trừ (không nhớ) trong phạm vi 20 ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan5.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Phép trừ (có nhớ) trong phạm vi 20",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan5.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Phép trừ (có nhớ) trong phạm vi 20 (tiếp theo)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan5.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập (1)",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan5.onluyen1",
+          "name": "Bài luyện tập số 1 - Tuần 5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan6",
+      "name": "Tuần 6",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan6.lythuyet1",
+          "name": "Cộng trừ phép tính",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan6.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập (2)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan6.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bảng trừ (có nhớ) trong phạm vi 20 (1)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan6.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bảng trừ (có nhớ) trong phạm vi 20 (2)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan6.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập (1) ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan6.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập (2)",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan6.onluyen1",
+          "name": "Bài luyện tập số 1 - Tuần 6",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan7",
+      "name": "Tuần 7",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan7.lythuyet1",
+          "name": "Bài Đọc và Luyện tập 1. Bàn tay cô giáo",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan7.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập chung (1)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan7.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập chung (2)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan7.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài toán liên quan đến phép cộng, phép trừ (1) ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan7.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài toán liên quan đến phép cộng, phép trừ (2) ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan7.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập ",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan7.onluyen1",
+          "name": "Bài luyện tập số 1 - Tuần 7",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan8",
+      "name": "Tuần 8",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan8.lythuyet1",
+          "name": "Bài Đọc và Luyện tập 1. Bàn tay cô giáo",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan8.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài toán liên quan đến phép cộng, phép trừ (tiếp theo) (1) ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan8.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Bài toán liên quan đến phép cộng, phép trừ (tiếp theo) (2)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan8.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan8.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập chung (1) ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan8.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Luyện tập chung (2)",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan8.onluyen1",
+          "name": "Bài luyện tập số 1 - Tuần 8",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    },
+    {
+      "week_id": "canhdieu.lop2.tiengviet.quyen1.tuan9",
+      "name": "Tuần 9",
+      "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/weeks_cover_img/tuan1.png",
+      "valid_day_from": "1",
+      "lessons": [
+        {
+          "lesson_id": "canhdieu.lop2.tiengviet.quyen1.tuan9.lythuyet1",
+          "name": "Bài Đọc và Luyện tập 1. Bàn tay cô giáo",
+          "lesson_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_audio": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "lesson_video": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png"
+        }
+      ],
+      "practices": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan9.luyentap1",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Em ôn lại những gì đã học (1)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan9.luyentap2",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Em ôn lại những gì đã học (2) ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan9.luyentap3",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Em vui học toán (1) ",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan9.luyentap4",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Em vui học toán (2)",
+          "tem_playables": [ ]
+        },
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan9.luyentap5",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "name": "Ôn tập ",
+          "tem_playables": [ ]
+        }
+      ],
+      "tranings": [
+        {
+          "practice_id": "canhdieu.lop2.toan.quyen1.tuan9.onluyen1",
+          "name": "Bài luyện tập số 9",
+          "cover_image": "https://dqovysxvd61j6.cloudfront.net/resources/books_cover_img/2T-Q2-bia1.png",
+          "tem_playables": []
+        }
+      ]
+    }
+  ]
+}

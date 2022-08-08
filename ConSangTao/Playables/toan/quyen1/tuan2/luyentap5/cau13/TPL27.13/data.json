@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "Hiệu số quả cam của bố và con là:\n<#>28</#>  <#>-</#>  <#>15</#>  <#>=</#>  <#>13</#>  (quả)",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống.",
+  "right_answer": [ "28","-","15","=","13" ]
+}

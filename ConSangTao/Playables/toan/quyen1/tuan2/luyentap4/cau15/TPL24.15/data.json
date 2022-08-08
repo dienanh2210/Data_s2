@@ -1,0 +1,10 @@
+{
+  "answers": [ "" ],
+  "question": "Hai mẹ con làm được tất cả số bánh là:\n<#>21</#> <#>+</#> <#>6</#> <#>=</#> <#>27</#> (chiếc bánh)",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống.",
+  "right_answer": [ "21", "+","6","=","27" ]
+}

@@ -1,0 +1,10 @@
+{
+  "answers": [ "Mặt trời", "Chim gõ kiến", "Ong mật" ],
+  "questions": [ "mang đến ánh sáng ấm áp.", "làm ra mật ngọt, chuyển phấn hoa để giúp hoa kết quả.", "bắt sâu cho cây." ],
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Nối nhân vật và việc làm tốt phù hợp.",
+  "right_answer": [ "0", "2", "1"]
+}

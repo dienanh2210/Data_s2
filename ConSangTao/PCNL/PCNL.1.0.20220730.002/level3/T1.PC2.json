@@ -1,0 +1,37 @@
+[
+    {
+      "key": "T1.PC2.BH1",
+      "text": "NA.1. Yêu thương, quan tâm, chăm sóc người thân trong gia đình.",
+      "parents_code": "T1.PC2"
+    },
+    {
+      "key": "T1.PC2.BH2",
+      "text": "NA.2. Yêu quý bạn bè, thầy cô; quan tâm, động viên, khích lệ bạn bè.",
+      "parents_code": "T1.PC2"
+    },
+    {
+      "key": "T1.PC2.BH3",
+      "text": "NA.3. Tôn trọng người lớn tuổi; giúp đỡ người già, người ốm yếu, người khuyết tật; nhường nhịn và giúp đỡ em nhỏ.",
+      "parents_code": "T1.PC2"
+    },
+    {
+      "key": "T1.PC2.BH4",
+      "text": "NA.4. Biết chia sẻ với những bạn có hoàn cảnh khó khăn, các bạn ở vùng sâu, vùng xa, người khuyết tật và đồng bào bị ảnh hưởng của thiên tai.",
+      "parents_code": "T1.PC2"
+    },
+    {
+      "key": "T1.PC2.BH5",
+      "text": "NA.5. Tôn trọng sự khác biệt của bạn bè trong lớp về cách ăn mặc, tính nết và hoàn cảnh gia đình.",
+      "parents_code": "T1.PC2"
+    },
+    {
+      "key": "T1.PC2.BH6",
+      "text": "NA.6. Không phân biệt đối xử, chia rẽ các bạn.",
+      "parents_code": "T1.PC2"
+    },
+    {
+      "key": "T1.PC2.BH7",
+      "text": "NA.7. Sẵn sàng tha thứ cho những hành vi có lỗi của bạn.",
+      "parents_code": "T1.PC2"
+    }
+  ]

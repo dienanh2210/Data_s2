@@ -1,0 +1,10 @@
+{
+  "answers": [ "sao Khuê", "sao Mai", "văn học", "toán học" ],
+  "question": "Gác Khuê Văn mang vẻ đẹp của  <#>sao Khuê</#>\nngôi sao sáng biểu tượng cho  <#>văn học</#>.",
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo từ thích hợp vào chỗ chấm.",
+  "center": true,
+  "right_answer": [ "sao Khuê", "văn học" ]
+}

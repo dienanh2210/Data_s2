@@ -1,0 +1,18 @@
+[
+    {
+    "key": "T3.NLDT1.TPNL3.BH1",
+    "text": "VDKH.1. Giải thích được ở mức độ đơn giản một số sự vật, hiện tượng, mối quan hệ trong tự nhiên và xã hội xung quanh",
+    "parents_code": "T3.NLDT1.TPNL3"
+    },
+    {
+    "key": "T3.NLDT1.TPNL3.BH2",
+    "text": "VDKH.2. Phân tích được tình huống liên quan đến vấn đề an toàn, sức khoẻ của bản thân, người khác và môi trường sống xung quanh",
+    "parents_code": "T3.NLDT1.TPNL3"
+    },
+    {
+    "key": "T3.NlDT1.TPNL3.BH3",
+    "text": "VDKH.3. Giải quyết được vấn đề, đưa ra được cách ứng xử phù hợp trong các tình huống có liên quan (ở mức độ đơn giản); trao đổi, chia sẻ với những người xung quanh để cùng thực hiện; nhận xét được cách ứng xử trong mỗi tình huống.",
+    "parents_code": "T3.NLDT1.TPNL3"
+    }
+
+]

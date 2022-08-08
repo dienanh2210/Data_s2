@@ -1,0 +1,10 @@
+{
+  "answers": [ "Họ và tên", "Ngày sinh", "Học sinh lớp", "Trường", "Sở thích" ],
+  "question": " ",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo từ ngữ thích hợp vào chỗ trống để hoàn thành bản tự thuật của bạn Minh Nguyệt.",
+  "right_answer": [ "Họ và tên", "Ngày sinh", "Học sinh lớp", "Trường", "Sở thích" ]
+}

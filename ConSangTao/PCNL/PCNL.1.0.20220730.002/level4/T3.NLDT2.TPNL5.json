@@ -1,0 +1,17 @@
+[
+    {
+    "key": "T3.NLDT2.TPNL5.BH1",
+    "text": "TKKT.1. Nhận thức được: muốn tạo ra sản phẩm công nghệ cần phải thiết kế; thiết kế là quá trình sáng tạo.",
+    "parents_code": "T3.NLDT2.TPNL5"
+    },
+    {
+    "key": "T3.NLDT2.TPNL4.BH2",
+    "text": "TKKT.2. Kể tên được các công việc chính khi thiết kế.",
+    "parents_code": "T3.NLDT2.TPNL5"
+    },
+{
+    "key": "T3.NLDT2.TPNL4.BH3",
+    "text": "TKKT.3. Nêu được ý tưởng và làm được một số đồ vật đơn giản từ những vật liệu thông dụng theo gợi ý, hướng dẫn.",
+    "parents_code": "T3.NLDT2.TPNL5"
+    }
+]

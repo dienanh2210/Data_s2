@@ -1,0 +1,10 @@
+{
+  "answers": [ "" ],
+  "question": "Số ngôi sao hai bạn gấp được là:\n<#>15</#> <#>+</#> <#>13</#> <#>=</#> <#>28</#> (ngôi sao)",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống.",
+  "right_answer": [ "15", "+","13","=","28" ]
+}

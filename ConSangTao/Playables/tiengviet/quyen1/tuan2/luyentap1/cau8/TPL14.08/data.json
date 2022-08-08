@@ -1,0 +1,10 @@
+﻿{
+  "answers": [ "A1", "A2", "A3", "A4", "A5", "A6","A7","A8" ],
+  "question": "",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Chọn các từ ngữ chỉ thời gian.",
+  "right_answer": [ "0", "1", "3", "4","5","7" ]
+} 

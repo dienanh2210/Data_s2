@@ -1,0 +1,44 @@
+{
+  "list": [
+    {
+      "key": "M1",
+      "text": "Toán",
+      "parents_code": ""
+    },
+    {
+      "key": "M2",
+      "text": "Tiếng Việt",
+      "parents_code": ""
+    },
+    {
+      "key": "M3",
+      "text": "Đạo đức",
+      "parents_code": ""
+    },
+    {
+      "key": "M4",
+      "text": "Hoạt động trải nghiệm",
+      "parents_code": ""
+    },
+    {
+      "key": "M5",
+      "text": "Tự nhiên và xã hội",
+      "parents_code": ""
+    },
+    {
+      "key": "M6",
+      "text": "Giáo dục thể chất",
+      "parents_code": ""
+    },
+    {
+      "key": "M7",
+      "text": "Ngoại ngữ",
+      "parents_code": ""
+    },
+    {
+      "key": "M8",
+      "text": "Nghệ thuật",
+      "parents_code": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "answers": [ ">", "<", "="],
+  "question": "45 dm <#>></#> 48 dm",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo thả dấu vào chỗ trống.",
+  "center": true,
+  "right_answer": ["<" ]
+}

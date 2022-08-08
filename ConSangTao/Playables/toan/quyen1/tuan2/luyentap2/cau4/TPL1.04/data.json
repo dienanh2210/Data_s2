@@ -1,0 +1,10 @@
+{
+  "answers": [ "xanh", "hồng", "vàng" ],
+  "question": "\nBút chì màu <#>hồng</#>  dài 2dm\nBút chì màu<#>xanh</#>  dài 1dm \nBút chì màu<#>vàng</#>  dài 15cm",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo đáp án đúng vào chỗ chấm.",
+  "right_answer": [ "hồng", "xanh", "vàng" ]
+}

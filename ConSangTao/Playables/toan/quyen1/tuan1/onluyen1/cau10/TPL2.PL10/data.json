@@ -1,0 +1,10 @@
+{
+  "answers": [ "+", "-", "59", "10" ],
+  "question": "35 <#>+</#> 24 = <#>59</#> \n 35 <#>-</#> 25 = <#>10</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo dấu thích hợp vào chỗ chấm.",
+  "center": true,
+  "right_answer": [ "+", "59", "-", "10" ]
+}

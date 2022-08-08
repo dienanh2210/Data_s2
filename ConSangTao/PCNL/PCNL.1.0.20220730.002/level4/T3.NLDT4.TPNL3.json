@@ -1,0 +1,18 @@
+[
+    {
+    "key": "T3.NLDT4.TPNL3.BH1",
+    "text": "TDTT.1. Nhận biết được vai trò của hoạt động thể dục thể thao đối với cơ thể.",
+    "parents_code": "T3.NLDT4.TPNL3"
+    },
+    {
+    "key": "T3.NLDT4.TPNL3.BH2",
+    "text": "TDTT.2. Thực hiện được kĩ thuật cơ bản của một số nội dung thể thao phù hợp với bản thân.",
+    "parents_code": "T3.NLDT3.TPNL3"
+    },
+{
+    "key": "T3.NLDT4.TPNL3.BH3",
+    "text": "TDTT.3. Tự giác, tích cực trong tập luyện thể dục thể thao.",
+    "parents_code": "T3.NLDT4.TPNL3"
+    }
+
+]

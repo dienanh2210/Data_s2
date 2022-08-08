@@ -1,0 +1,10 @@
+{
+  "answers": [ "A1", "A2", "A3", "A4" ],
+  "questions": [ "Q1", "Q2" ],
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Dựa vào hình gợi ý, tìm tên con vật bắt đầu bằng <color=#fe7200>k</color> hoặc <color=#fe7200>k</color>. Nối đúng:",
+  "right_answer": [ "1", "0", "0", "0" ]
+}

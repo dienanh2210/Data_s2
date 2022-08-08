@@ -1,0 +1,49 @@
+{
+  "subjects": [
+    {
+      "subject_id": "toan",
+      "name": "Toan",
+      "cover_img": "https://s3.ap-southeast-1.amazonaws.com/consangtao.data.public/resources/cover_img/toan.png"
+    },
+    {
+      "subject_id": "tiengviet",
+      "name": "Tieng_Viet",
+      "cover_img": "https://s3.ap-southeast-1.amazonaws.com/consangtao.data.public/resources/cover_img/tiengviet.png"
+    },
+    {
+      "subject_id": "daoduc",
+      "name": "Dao_duc",
+      "cover_img": "https://s3.ap-southeast-1.amazonaws.com/consangtao.data.public/resources/cover_img/daoduc.png"
+    },
+    {
+      "subject_id": "hoatdongtrainghiem",
+      "name": "Hoat_dong_trai_nghiem",
+      "cover_img": "https://s3.ap-southeast-1.amazonaws.com/consangtao.data.public/resources/cover_img/hoatdongtrainghiem.png"
+    },
+    {
+      "subject_id": "giaoducthechat",
+      "name": "Giao_duc_the_chat",
+      "cover_img": "https://s3.ap-southeast-1.amazonaws.com/consangtao.data.public/resources/cover_img/giaoducthechat.png"
+    },
+    {
+      "subject_id": "tienganh",
+      "name": "Tieng_anh",
+      "cover_img": "https://s3.ap-southeast-1.amazonaws.com/consangtao.data.public/resources/cover_img/tienganh.png"
+    },
+    {
+      "subject_id": "mythuat",
+      "name": "My_Thuat",
+      "cover_img": "https://s3.ap-southeast-1.amazonaws.com/consangtao.data.public/resources/cover_img/mythuat.png"
+    },
+    {
+      "subject_id": "tunhienxahoi",
+      "name": "Tu_nhien_xa_hoi",
+      "cover_img": "https://s3.ap-southeast-1.amazonaws.com/consangtao.data.public/resources/cover_img/mythuat.png"
+    },
+{
+      "subject_id": "vanhoadiaphuong",
+      "name": "Van_hoa_dia_phuong",
+      "cover_img": "https://s3.ap-southeast-1.amazonaws.com/consangtao.data.public/resources/cover_img/mythuat.png"
+    }
+  ]
+}

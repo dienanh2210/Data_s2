@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "<#>53</#>   được gọi là hiệu.\n        <#>95-42</#>   cũng được gọi là hiệu.",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống theo mẫu.",
+  "right_answer": [ "53", "95-42" ]
+}

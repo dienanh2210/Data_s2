@@ -1,0 +1,12 @@
+[
+    {
+    "key": "T3.NLDT2.TPNL4.BH1",
+    "text": "DGCN.1. Đưa ra được lí do thích hay không thích một sản phẩm công nghệ.",
+    "parents_code": "T3.NLDT2.TPNL4"
+    },
+    {
+    "key": "T3.NLDT2.TPNL4.BH2",
+    "text": "DGCN.2. Bước đầu so sánh và nhận xét được về các sản phẩm công nghệ cùng chức năng. ",
+    "parents_code": "T3.NLDT2.TPNL4"
+    }
+]

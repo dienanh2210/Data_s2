@@ -1,0 +1,19 @@
+{
+    "list": [
+    {
+        "key": "M1.NLC1.NLR1",
+        "text": "Số và cấu tạo thập phân của một số",
+        "parents_code": "M1"
+    },
+    {
+        "key": "M1.NLC1.NLR2",
+        "text": "So sánh số tự nhiên",
+        "parents_code": "M1"
+    },
+    {
+        "key": "M1.NLC1.NLR3",
+        "text": "Ước lượng số đồ vật",
+        "parents_code": "M1"
+    }
+    ]
+}

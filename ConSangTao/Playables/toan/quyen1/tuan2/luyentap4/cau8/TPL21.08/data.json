@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "<#>29</#> được gọi là tổng\n<#>12+17</#> cũng được gọi là tổng",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống.",
+  "right_answer": [ "29","12+17" ]
+}

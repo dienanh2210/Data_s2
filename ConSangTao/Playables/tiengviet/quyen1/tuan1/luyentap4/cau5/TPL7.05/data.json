@@ -1,0 +1,10 @@
+{
+  "answers": [ "A1", "A2", "A3", "A4" ],
+  "questions": [ "Q1", "Q2" ],
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Nối từ ngữ <color=#fe7200>đúng</color> hoặc <color=#fe7200>sai</color> chính tả vào mỗi nhóm phù hợp.",
+  "right_answer": [ "0", "0", "0", "1" ]
+}

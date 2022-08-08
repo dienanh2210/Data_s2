@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "<#>28</#><#>-</#><#>15</#><#>=</#><#>13</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền số và dấu vào chỗ trống.",
+  "right_answer": [ "28","-","15","=","13" ]
+}

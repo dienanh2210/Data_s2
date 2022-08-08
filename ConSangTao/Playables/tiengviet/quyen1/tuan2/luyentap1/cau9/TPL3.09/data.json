@@ -1,0 +1,10 @@
+{
+  "answers": [ "A1", "A2", "A3", "A4" ],
+  "questions": [ "Q1" ],
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Dựa vào bài đọc, sắp xếp các việc làm của Bi theo trình tự trước sau:",
+  "right_answer": [ "1", "4", "3", "2" ]
+}

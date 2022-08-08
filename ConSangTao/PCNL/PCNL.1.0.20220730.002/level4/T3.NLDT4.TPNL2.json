@@ -1,0 +1,18 @@
+[
+    {
+    "key": "T3.NLDT4.TPNL2.BH1",
+    "text": "VDCB.1. Nhận biết được các vận động cơ bản trong chương trình môn học.",
+    "parents_code": "T3.NLDT4.TPNL2"
+    },
+    {
+    "key": "T3.NLDT4.TPNL2.BH2",
+    "text": "VDCB.2. Thực hiện được các kĩ năng vận động cơ bản.",
+    "parents_code": "T3.NLDT3.TPNL2"
+    },
+{
+    "key": "T3.NLDT4.TPNL2.BH3",
+    "text": "VDCB.3. Có ý thức thường xuyên vận động để phát triển các tố chất thể lực.",
+    "parents_code": "T3.NLDT4.TPNL2"
+    }
+
+]

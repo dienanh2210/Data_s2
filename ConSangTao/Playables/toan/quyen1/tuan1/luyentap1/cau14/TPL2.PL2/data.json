@@ -1,0 +1,11 @@
+{
+  "answers": [ ">", "<", "=", "<" ],
+  "question": "So sánh 64 và 68 \n So sánh ở hàng chục ta có 6 <#>=</#> 6 \n So sánh ở hàng đơn vị ta có: 4 <#><</#> 8 \n Nên 64 <#><</#> 68",
+  "redings": "",
+  "soundTtitle": "sound_4",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo dấu thích hợp vào chỗ chấm.",
+  "center": true,
+  "right_answer": [ "=", "<", "<" ]
+}

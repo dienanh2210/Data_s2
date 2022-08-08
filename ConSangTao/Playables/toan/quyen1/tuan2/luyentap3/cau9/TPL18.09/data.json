@@ -1,0 +1,10 @@
+{
+  "answers": [ "" ],
+  "question": " Đổi: 20 cm =<#>2</#> dm \nSợi dây còn lại có độ dài là:\n<#>75</#> dm -<#>2</#> dm = <#>73</#> dm ",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Điền số thích hợp vào chỗ trống.",
+  "right_answer": [ "2", "75", "2","73"]
+}

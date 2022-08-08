@@ -1,0 +1,37 @@
+[
+    {
+    "key": "T2.NLC3.BH1",
+    "text": "GQVDST.1. Biết xác định và làm rõ thông tin, ý tưởng mới đối với bản thân từ các nguồn tài liệu cho sẵn theo hướng dẫn.",
+    "parents_code": "T2.NLC3"
+    },
+    {
+    "key": "T2.NLC3.BH2",
+    "text": "GQVDST.2. Biết thu nhận thông tin từ tình huống, nhận ra những vấn đề đơn giản và đặt được câu hỏi.",
+    "parents_code": "T2.NLC3"
+    },
+    {
+    "key": "T2.NLC3.BH3",
+    "text": "GQVDST.3. Dựa trên hiểu biết đã có, biết hình thành ý tưởng mới đối với bản thân và dự đoán được kết quả khi thực hiện.",
+    "parents_code": "T2.NLC3"
+    },
+ {
+    "key": "T2.NLC3.BH4",
+    "text": "GQVDST.4. Nêu được cách thức giải quyết vấn đề đơn giản theo hướng dẫn.",
+    "parents_code": "T2.NLC3"
+    },
+    {
+    "key": "T2.NLC3.BH5",
+    "text": "GQVDST.5. Xác định được nội dung chính và cách thức hoạt động để đạt mục tiêu đặt ra theo hướng dẫn.",
+    "parents_code": "T2.NLC3"
+    },
+    {
+    "key": "T2.NLC3.BH6",
+    "text": "GQVDST.6. Nhận xét được ý nghĩa của các hoạt động.",
+    "parents_code": "T2.NLC3"
+    },
+ {
+    "key": "T2.NLC3.BH7",
+    "text": "GQVDST.7. Nêu được thắc mắc về sự vật, hiện tượng xung quanh; không e ngại nêu ý kiến cá nhân trước các thông tin khác nhau về sự vật, hiện tượng; sẵn sàng thay đổi khi nhận ra sai sót.",
+    "parents_code": "T2.NLC3"
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "answers": [ "nghê", "chim phượng", "rồng" ],
+  "question": "Phía trước Văn Miếu Môn có tứ trụ.\n rên hai trụ giữa có hình hai con <#>nghê</#>    chầu vào.\nHai trụ ngoài đắp nổi bốn con  <#>chim phượng</#>      .",
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo số thích hợp vào chỗ chấm.",
+  "center": true,
+  "right_answer": [ "nghê", "chim phượng" ]
+}

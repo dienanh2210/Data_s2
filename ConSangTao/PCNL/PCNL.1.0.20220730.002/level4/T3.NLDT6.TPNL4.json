@@ -1,0 +1,22 @@
+[
+    {
+    "key": "T3.NLDT6.TPNL4.BH1",
+    "text": "GTTH.1. Nghe hiểu, đọc hiểu và ghi chép (tóm tắt) được các thông tin toán học trọng tâm trong nội dung văn bản hay do người khác thông báo (ở mức độ đơn giản), từ đó nhận biết được vấn đề cần giải quyết.",
+    "parents_code": "T3.NLDT6.TPNL4"
+    },
+    {
+    "key": "T3.NLDT6.TPNL4.BH2",
+    "text": "GTTH.2. Trình bày, diễn đạt (nói hoặc viết) được các nội dung, ý tưởng, giải pháp toán học trong sự tương tác với người khác (chưa yêu cầu phải diễn đạt đầy đủ, chính xác). Nêu và trả lời được câu hỏi khi lập luận, giải quyết vấn đề.",
+    "parents_code": "T3.NLDT6.TPNL4"
+    },
+{
+    "key": "T3.NLDT6.TPNL4.BH3",
+    "text": "GTTH.3. Sử dụng được ngôn ngữ toán học kết hợp với ngôn ngữ thông thường, động tác hình thể để biểu đạt các nội dung toán học ở những tình huống đơn giản.",
+    "parents_code": "T3.NLDT6.TPNL4"
+    },
+{
+    "key": "T3.NLDT6.TPNL4.BH4",
+    "text": "GTTH.4. Thể hiện được sự tự tin khi trả lời câu hỏi, khi trình bày, thảo luận các nội dung toán học ở những tình huống đơn giản.",
+    "parents_code": "T3.NLDT6.TPNL4"
+    }
+]

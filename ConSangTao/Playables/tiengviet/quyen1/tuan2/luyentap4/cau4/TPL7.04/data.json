@@ -1,0 +1,10 @@
+{
+  "answers": [ "A1", "A2", "A3", "A4" ],
+  "questions": [ "Q1", "Q2" ],
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo <color=#f05a24>ng</color> hoặc <color=#f05a24>ngh</color> phù hợp với chỗ trống.",
+  "right_answer": [ "0", "1", "0", "1" ]
+}

@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "Trong phép cộng 26 + 12 = 38\n<#>38</#> được gọi là tổng\n<#>26+12</#> cũng được gọi là tổng",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống theo mẫu.",
+  "right_answer": [ "38","12+5" ]
+}

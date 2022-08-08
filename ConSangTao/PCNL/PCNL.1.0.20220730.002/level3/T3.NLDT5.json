@@ -1,0 +1,27 @@
+[
+    {
+    "key": "T3.NLDT5.TPNL1",
+    "text": "Sử dụng và quản lí các phương tiện công nghệ thông tin và truyền thông ",
+    "parents_code": "T3.NLDT5"
+    },
+    {
+    "key": "T3.NLDT5.TPNL2",
+    "text": "Ứng xử phù hợp trong môi trường số",
+    "parents_code": "T3.NLDT5"
+    },
+    {
+    "key": "T3.NlDT5.TPNL3",
+    "text": "Giải quyết vẫn đề với sự hỗ trợ của công nghệ thông tin và truyền thông",
+    "parents_code": "T2.NLDT5"
+    },
+ {
+    "key": "T3.NLDT5.TPNL4",
+    "text": "Ứng dụng công nghệ thông tin và truyền thống trong học ",
+    "parents_code": "T3.NLDT5"
+    },
+{
+    "key": "T3.NLDT5.TPNL5",
+    "text": "Hợp tác trong môi trường số",
+    "parents_code": "T3.NLDT5"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+    "key": "T1.PC1.BH1",
+    "text": "YN.1. Yêu thiên nhiên và có những việc làm thiết thực bảo vệ thiên nhiên",
+    "parents_code": "T1.PC1"
+    },
+    {
+    "key": "T1.PC1.BH2",
+    "text": "YN.2. Yêu quê hương, Yêu Tổ quốc, tôn trọng các biểu trưng của đất nước",
+    "parents_code": "T1.PC1"
+    },
+    {
+    "key": "T1.PC1.BH3",
+    "text": "YN.3. Kính trọng, biết ơn người lao động, người có công với quê hương, đất nước; tham gia các hoạt động đền ơn, đáp nghĩa đối với những người có công với quê hương, đất nước.",
+    "parents_code": "T1.PC1"
+    }
+]

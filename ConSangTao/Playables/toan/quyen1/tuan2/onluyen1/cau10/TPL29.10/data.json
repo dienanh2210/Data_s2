@@ -1,0 +1,10 @@
+{
+  "answers": [ "" ],
+  "question": "Hiệu là: <#>30</#>\nSố bị trừ là: <#>99</#>\nSố trừ là: <#>69</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Điền số thích hợp vào chỗ trống.",
+  "right_answer": [ "30", "99", "69"]
+}

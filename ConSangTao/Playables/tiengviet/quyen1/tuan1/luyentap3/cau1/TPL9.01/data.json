@@ -1,0 +1,10 @@
+﻿{
+  "answers": [ "A1", "A2", "A3"],
+  "question": "Q1 ",
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Chọn từ ngữ phù hợp với chỗ trống để hoàn thành lời tự giới thiệu.",
+  "right_answer": [ "A2" ]
+}

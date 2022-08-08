@@ -1,0 +1,38 @@
+[
+    {
+    "key": "T3.NLDT3.TPNL2.BH1",
+    "text": "STTM.1. Nêu được ý tưởng thể hiện đối tượng thẩm mĩ ở mức độ đơn giản.",
+    "parents_code": "T3.NLDT3.TPNL2"
+    },
+    {
+    "key": "T3.NLDT3.TPNL2.BH2",
+    "text": "STTM.2. Vận dụng được một số hình thức thực hành, sáng tạo thể hiện ý tưởng thẩm mĩ",
+    "parents_code": "T3.NLDT3.TPNL2"
+    },
+{
+    "key": "T3.NLDT3.TPNL2.BH3",
+    "text": "STTM.3. Vận dụng được một số yếu tố, nguyên lí tạo hình trong thực hành sáng tạo ở mức độ đơn giản.",
+    "parents_code": "T3.NLDT3.TPNL2"
+    },
+{
+    "key": "T3.NLDT3.TPNL2.BH4",
+    "text": "STTM.4. Sử dụng được một số công cụ, thiết bị trong thực hành sáng tạo.",
+    "parents_code": "T3.NLDT3.TPNL2"
+    },
+{
+    "key": "T3.NLDT3.TPNL2.BH5",
+    "text": "UDTM.1. Biết thể hiện tính ứng dụng của sản phẩm trong thực hành, sáng tạo ở mức độ đơn giản.",
+    "parents_code": "T3.NLDT3.TPNL2"
+    },
+{
+    "key": "T3.NLDT3.TPNL2.BH6",
+    "text": "UDTM.2. Biết trưng bày, giới thiệu sản phẩm mĩ thuật của cá nhân và nhóm học tập.",
+    "parents_code": "T3.NLDT3.TPNL2"
+    },
+{
+    "key": "T3.NLDT3.TPNL2.BH7",
+    "text": "UDTM.3. Biết vận dụng sản phẩm, tác phẩm nghệ thuật phục vụ cho học tập và đời sống",
+    "parents_code": "T3.NLDT3.TPNL2"
+    }
+
+]

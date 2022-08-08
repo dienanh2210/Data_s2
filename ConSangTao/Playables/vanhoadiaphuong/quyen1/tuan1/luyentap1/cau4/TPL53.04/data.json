@@ -1,0 +1,10 @@
+{
+  "answers": [ "Văn Miếu", "Tôn Đức Thắng", "Quốc Tử Giám", "Nguyễn Thái Học" ],
+  "question": "Bốn mặt của khu di tích là phố. Phía Nam là phố <#>Văn Miếu</#>\n phía Bắc là phố <#>Tôn Đức Thắng</#>    ,phía Bắc là phố <#>Quốc Tử Giám</#> \n     phía Đông là phố <#>Nguyễn Thái Học</#> ",
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo từ thích hợp vào chỗ chấm.",
+  "center": true,
+  "right_answer": [ "Văn Miếu", "Tôn Đức Thắng", "Quốc Tử Giám", "Nguyễn Thái Học" ]
+}

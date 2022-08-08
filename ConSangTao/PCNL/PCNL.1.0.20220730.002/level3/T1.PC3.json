@@ -1,0 +1,34 @@
+[
+    {
+    "key": "T1.PC3.BH1",
+    "text": "CC.1. Đi học đầy đủ, đúng giờ.",
+    "parents_code": "T1.PC3"
+    },
+    {
+    "key": "T1.PC3.BH2",
+    "text": "CC.2. Thường xuyên hoàn thành nhiệm vụ học tập.",
+    "parents_code": "T1.PC3"
+    },
+    {
+    "key": "T1.PC3.BH3",
+    "text": "CC.3. Ham học hỏi, thích đọc sách để mở rộng hiểu biết.",
+    "parents_code": "T1.PC3"
+    },
+{
+    "key": "T1.PC3.BH4",
+    "text": "CC.4. Có ý thức vận dụng kiến thức, kĩ năng học được ở nhà trường vào đời sống hằng ngày.",
+    "parents_code": "T1.PC3"
+    },
+{
+    "key": "T1.PC3.BH5",
+    "text": "CC.5. Thường xuyên tham gia các công việc của gia đình vừa sức với bản thân.",
+    "parents_code": "T1.PC3"
+    },
+{
+    "key": "T1.PC3.BH6",
+    "text": "CC.6. Thường xuyên tham gia các công việc của trường lớp, cộng đồng vừa sức với bản thân.",
+    "parents_code": "T1.PC3"
+    }
+
+
+]

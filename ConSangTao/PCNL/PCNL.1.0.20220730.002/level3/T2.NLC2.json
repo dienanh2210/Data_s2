@@ -1,0 +1,68 @@
+[
+    {
+    "key": "T2.NLC2.BH1",
+    "text": "GTHT.1. Nhận ra được ý nghĩa của giao tiếp trong việc đáp ứng các nhu cầu của bản thân.",
+    "parents_code": "T2.NLC2"
+    },
+    {
+    "key": "T2.NLC2.BH2",
+    "text": "GTHT.2. Tiếp nhận được những văn bản về đời sống, tự nhiên và xã hội có sử dụng ngôn ngữ kết hợp với hình ảnh như truyện tranh, bài viết đơn giản.",
+    "parents_code": "T2.NLC2"
+    },
+    {
+    "key": "T2.NLC2.BH3",
+    "text": "GTHT.3. Bước đầu biết sử dụng ngôn ngữ kết hợp với hình ảnh, cử chỉ để trình bày thông tin và ý tưởng.",
+    "parents_code": "T2.NLC2"
+    },
+ {
+    "key": "T2.NLC2.BH4",
+    "text": "GTHT.4. Tập trung chú ý khi giao tiếp; nhận ra được thái độ của đối tượng giao tiếp.",
+    "parents_code": "T2.NLC2 "
+    },
+    {
+    "key": "T2.NLC2.BH5",
+    "text": "GTHT.5. Biết cách kết bạn và giữ gìn tình bạn.",
+    "parents_code": "T2.NLC2"
+    },
+    {
+    "key": "T2.NLC2.BH6",
+    "text": "GTHT.6. Nhận ra được những bất đồng, xích mích giữa bản thân với bạn hoặc giữa các bạn với nhau; biết nhường bạn hoặc thuyết phục bạn.",
+    "parents_code": "T2.NLC2"
+    },
+ {
+    "key": "T2.NLC2.BH7",
+    "text": "GTHT.7. Có thói quen trao đổi, giúp đỡ nhau trong học tập; biết cùng nhau hoàn thành nhiệm vụ học tập theo sự hướng dẫn của thầy cô.",
+    "parents_code": "T2.NLC2"
+    },
+    {
+    "key": "T2.NLC2.BH8",
+    "text": "GTHT.8. Hiểu được nhiệm vụ của nhóm và trách nhiệm, hoạt động của bản thân trong nhóm sau khi được hướng dẫn, phân công.",
+    "parents_code": "T2.NLC2"
+    },
+    {
+    "key": "T2.NLC2.BH9",
+    "text": "GTHT.9. Nhận biết được một số đặc điểm nổi bật của các thành viên trong nhóm để đề xuất phương án phân công công việc phù hợp.",
+    "parents_code": "T2.NLC2"
+    },
+ {
+    "key": "T2.NLC2.BH10",
+    "text": "GTHT.10. Biết cố gắng hoàn thành phần việc mình được phân công và chia sẻ giúp đỡ thành viên khác cùng hoàn thành việc được phân công.",
+    "parents_code": "T2.NLC2"
+    },
+    {
+    "key": "T2.NLC2.BH11",
+    "text": "GTHT.11. Báo cáo được kết quả thực hiện nhiệm vụ của cả nhóm; tự nhận xét được ưu điểm, thiếu sót của bản thân theo hướng dẫn của
+thầy cô.",
+    "parents_code": "T2.NLC2"
+    },
+    {
+    "key": "T2.NLC2.BH12",
+    "text": "GTHT.12. Có hiểu biết ban đầu về một số nước trong khu vực và trên thế giới.",
+    "parents_code": "T2.NLC2"
+    },
+  {
+    "key": "T2.NLC2.BH13",
+    "text": "GTHT.13. Biết tham gia một số hoạt động hội nhập quốc tế theo hướng dẫn của nhà trường.",
+    "parents_code": "T2.NLC2"
+    }
+]

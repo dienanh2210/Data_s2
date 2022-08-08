@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "Sợi dây còn lại có độ dài là:\n<#>68</#>  dm - <#>42</#>  dm = <#>26</#>   dm",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền số thích hợp vào chỗ trống.",
+  "right_answer": [ "68","42","26" ]
+}

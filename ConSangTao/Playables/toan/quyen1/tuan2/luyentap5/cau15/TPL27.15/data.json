@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "Hiệu số tuổi của bố và con là:\n<#>39</#>  <#>-</#>  <#>11</#>  <#>=</#>  <#>28</#>  (quả)",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống.",
+  "right_answer": [ "39","-","11","=","28" ]
+}

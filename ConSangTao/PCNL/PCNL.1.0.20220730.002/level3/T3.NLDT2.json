@@ -1,0 +1,27 @@
+[
+    {
+    "key": "T3.NLĐT2.TPNL1",
+    "text": "Nhận thức công nghệ",
+    "parents_code": "T3.NLĐT2"
+    },
+    {
+    "key": "T3.NLĐT2.TPNL2",
+    "text": "Giao tiếp công nghệ",
+    "parents_code": "T3.NLĐT2"
+    },
+    {
+    "key": "T2.NlĐT2.TPNL3",
+    "text": "Sử dụng công nghệ",
+    "parents_code": "T2.NLĐT2"
+    },
+ {
+    "key": "T2.NlĐT2.TPNL4",
+    "text": "Đánh giá công nghệ",
+    "parents_code": "T2.NLĐT2"
+    },
+ {
+    "key": "T2.NlĐT2.TPNL5",
+    "text": "Thiết kế kĩ thuật",
+    "parents_code": "T2.NLĐT2"
+    }
+]

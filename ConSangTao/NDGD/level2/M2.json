@@ -1,0 +1,34 @@
+{
+    "list":[
+        {
+        "key": "M2.NLC1",
+        "text": "Đọc văn bản văn học: Bi đã lớn",
+        "parents_code": "M2"
+        },
+ {
+        "key": "M2.NLC2",
+        "text": "Kiến thức tiếng Việt",
+        "parents_code": "M2"
+        },
+ {
+        "key": "M2.NLC3",
+        "text": "Đọc văn bản văn học: Ngoan",
+        "parents_code": "M2"
+        },
+{
+        "key": "M2.NLC4",
+        "text": "Nói và nghe",
+        "parents_code": "M2"
+        },
+ {
+        "key": "M2.NLC5",
+        "text": "Viết",
+        "parents_code": "M2"
+        },
+{
+        "key": "M2.NLC6",
+        "text": "Đọc văn bản văn học: Hai viên ngọc quý",
+        "parents_code": "M2"
+        },
+    ]
+}

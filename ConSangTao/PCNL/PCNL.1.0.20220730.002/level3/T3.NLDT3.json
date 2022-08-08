@@ -1,0 +1,18 @@
+[
+    {
+    "key": "T3.NLDT3.TPNL1",
+    "text": "Quan sát và nhận thức ",
+    "parents_code": "T3.NLDT3"
+    },
+    {
+    "key": "T3.NLDT3.TPNL2",
+    "text": "Sáng tạo và ứng dụng thẩm mỹ",
+    "parents_code": "T3.NLDT3"
+    },
+    {
+    "key": "T2.NlDT3.TPNL3",
+    "text": "Phân tích và Dánh giá thẩm mỹ",
+    "parents_code": "T2.NLDT3"
+    }
+ 
+]

@@ -1,0 +1,10 @@
+{
+  "answers": [ "A1", "A2", "A3", "A4" ],
+  "questions": [ "Q1", "Q2", "Q3", "Q4" ],
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Dựa vào chữ cái đầu tiên, em hãy xếp tên sách theo <color=#fe7200>thứ tự bảng chữ cái</color>. Nối đúng:",
+  "right_answer": [ "3", "0", "2", "1" ]
+}

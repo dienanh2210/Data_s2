@@ -1,0 +1,10 @@
+{
+  "answers": [ "Môn Tiếng Việt", "Cái kéo màu hồng này", "Mẹ của em" ],
+  "questions": [ "là môn học em thích nhất.", "là bác sĩ.", "là đồ dùng để cắt giấy." ],
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Nối các từ ngữ ở hai cột sao cho phù hợp để tạo câu.",
+  "right_answer": [ "0", "2", "1" ]
+}

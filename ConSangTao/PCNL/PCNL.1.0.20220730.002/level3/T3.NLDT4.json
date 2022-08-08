@@ -1,0 +1,18 @@
+[
+    {
+    "key": "T3.NLDT4.TPNL1",
+    "text": "Chăm sóc  ",
+    "parents_code": "T4.NLDT4"
+    },
+    {
+    "key": "T3.NLDT4.TPNL2",
+    "text": "Vận động cơ bản ",
+    "parents_code": "T4.NLDT4"
+    },
+    {
+    "key": "T3.NlDT4.TPNL3",
+    "text": "Hoạt động thể dục thể thao",
+    "parents_code": "T2.NLDT4"
+    }
+ 
+]

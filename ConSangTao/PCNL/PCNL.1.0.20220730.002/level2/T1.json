@@ -1,0 +1,27 @@
+[
+    {
+    "key": "T1.PC1",
+    "text": "Yêu nước",
+    "parents_code": "T1"
+    },
+    {
+    "key": "T1.PC2",
+    "text": "Nhân ái",
+    "parents_code": "T1"
+    },
+ {
+    "key": "T1.PC3",
+    "text": "Chăm chỉ",
+    "parents_code": "T1"
+    },
+ {
+    "key": "T1.PC4",
+    "text": "Trung thực",
+    "parents_code": "T1"
+    },
+ {
+    "key": "T1.PC5",
+    "text": "trách nhiệm",
+    "parents_code": "T1"
+    }
+]

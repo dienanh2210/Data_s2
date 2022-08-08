@@ -1,0 +1,10 @@
+{
+  "answers": [ "học sinh", "Gia đình", "Sở thích", "trở thành" ],
+  "question": "     Mình tên là Đỗ Tuấn Anh. Năm nay, mình bảy tuổi. Mình là\n<#>học sinh</#>     lớp 2A. <#>Gia đình</#>     mình có 4 người: bố, mẹ,\n   mình và em gái. <#>Sở thích</#>     của mình là đá bóng, bơi lội và đọc\n sách. Ước mơ của mình là <#>trở thành</#>     một cầu thủ bóng đá.",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo từ ngữ vào chỗ trống để hoàn thành lời tự giới thiệu của bạn Tuấn Anh.",
+  "right_answer": [ "học sinh", "Gia đình", "Sở thích", "trở thành" ]
+}

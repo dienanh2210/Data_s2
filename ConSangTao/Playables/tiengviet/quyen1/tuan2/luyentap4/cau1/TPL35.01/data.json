@@ -1,0 +1,10 @@
+{
+  "answers": [ "giê", "ca", "e-lờ", "en-nờ", "ô" ],
+  "question": "\n         <#>giê</#>                            <#>en-nờ</#>\n\n         <#>ca</#>                            <#>ô</#>\n         <#>e-lờ</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo tên chữ cái vào chỗ trống phù hợp.",
+  "right_answer": [ "giê", "ca", "e-lờ", "en-nờ", "ô" ]
+}

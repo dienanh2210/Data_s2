@@ -1,0 +1,11 @@
+{
+  "answers": [ "34", "23", "57" ],
+  "question": "An cắt được 34 hình tròn.\n Bình cắt được 23 hình tròn.\n Hỏi cả hai bạn cắt được bao \n nhiêu hình tròn?",
+  "description": "Tóm tắt:\n An: <#>34</#> hình tròn \n Bình: <#>34</#>  hình tròn \n  Cả hai bạn: bao nhiêu \n  hình tròn?",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo số thích hợp vào chỗ chấm để hoàn thành tóm tắt bài toán.",
+  "right_answer": [ "34", "23" ]
+}

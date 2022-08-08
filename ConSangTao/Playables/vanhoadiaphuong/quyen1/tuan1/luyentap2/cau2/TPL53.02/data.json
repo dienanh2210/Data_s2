@@ -1,0 +1,10 @@
+{
+  "answers": [ "3", "2", "Lê", "Nguyễn" ],
+  "question": "Văn Miếu có <#>3</#>   cửa. Cửa giữa cao to,\n gồm <#>2</#>    tầng. Phía trước cổng là 1 đôi rồng đá\n    cách điệu thời  <#>Lê</#>, \nbên trong là đôi rồng đá thời <#>Nguyễn</#> .",
+  "redings": "bai_doc",
+  "anim": false,
+  "soundAnim": false,
+  "title": "Kéo từ thích hợp vào chỗ chấm.",
+  "center": true,
+  "right_answer": [ "3", "2", "Lê", "Nguyễn" ]
+}

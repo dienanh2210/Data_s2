@@ -1,0 +1,47 @@
+[
+    {
+    "key": "T3.NLDT7.TT1.BH1",
+    "text": "NN.1bM3. Nói và đáp lời chào hỏi, tự giới thiệu",
+    "parents_code": "T3.NLDT6.TT1"
+    },
+    {
+    "key": "T3.NLDT7.TT1.BH2",
+    "text": "V.1M2. Điền đúng c/k vào phần mở đầu tiếng theo quy tắc chính tả nghệ thông tin hỗ trợ học tập.",
+    "parents_code": "T3.NLDT6.TT1"
+    },
+{
+    "key": "T3.NLDT7.TT1.BH3",
+    "text": "V.1M2. Phân nhóm được từ viết đúng và viết sai chính tả    ",
+    "parents_code": "T3.NLDT6.TT1"
+    },
+{
+    "key": "T3.NLDT7.TT1.BH4",
+    "text": "V.M3. Tìm được các từ có tiếng bắt đầu bằng c/k gợi ý bằng tranh ảnh    ",
+    "parents_code": "T3.NLDT6.TT1"
+    },
+{
+    "key": "T3.NLDT7.TT1.BH5",
+    "text": "V.2.1.M1. Nhận biết được câu Ai là gì? giới thiệu bản thân    ",
+    "parents_code": "T3.NLDT6.TT1"
+    },
+{
+    "key": "T3.NLDT7.TT1.BH6",
+    "text": "V.2.2.M3. Tạo lập được câu Ai là gì? giới thiệu bản thân    ",
+    "parents_code": "T3.NLDT6.TT1"
+    },
+{
+    "key": "T3.NLDT7.TT1.BH7",
+    "text": "V.2.2.M3. Tạo lập được đoạn văn giới thiệu bản thân dựa vào gợi ý (tranh ảnh, từ ngữ cho trước)    ",
+    "parents_code": "T3.NLDT6.TT1"
+    },
+{
+    "key": "T3.NLDT7.TT1.BH8",
+    "text": "V.1M2. Điền đúng c/k vào phần mở đầu tiếng theo quy tắc chính tả",
+    "parents_code": "T3.NLDT6.TT1"
+    },
+{
+    "key": "T3.NLDT7.TT1.BH9",
+    "text": "V.2.2.M3. Tạo lập được đoạn văn giới thiệu bản thân dựa vào gợi ý (tranh ảnh, từ ngữ cho trước)",
+    "parents_code": "T3.NLDT6.TT1"
+    }
+]

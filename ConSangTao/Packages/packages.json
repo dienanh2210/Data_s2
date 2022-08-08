@@ -1,0 +1,93 @@
+{
+  "listPackages": [
+    {
+      "package_id": "canhdieu",
+      "name": "Bộ sách cánh diều",
+      "status": "true",
+      "classes": [
+        {
+          "class_id": "lop2",
+          "class_name": "Lớp 2",
+          "subjects": [
+            {
+              "subject_id": "toan"
+            },
+            {
+              "subject_id": "tiengviet"
+            },
+ {
+              "subject_id": "vanhoadiaphuong"
+            }
+          ]
+        },
+        {
+          "class_id": "lop3",
+          "class_name": "Lớp 3",
+          "subjects": [
+            {
+              "subject_id": "toan"
+            },
+            {
+              "subject_id": "tiengviet"
+            }
+          ]
+        },
+        {
+          "class_id": "lop4",
+          "class_name": "Lớp 4",
+          "subjects": [
+            {
+              "subject_id": "toan"
+            },
+            {
+              "subject_id": "tiengviet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "package_id": "ketnoitrithuc",
+      "name": "Bộ sách kết nối tri thức",
+      "status": "false",
+      "classes": [
+        {
+          "class_id": "lop2",
+          "class_name": "Lớp 2",
+          "subjects": [
+            {
+              "subject_id": "toan"
+            },
+            {
+              "subject_id": "tiengviet"
+            }
+          ]
+        },
+        {
+          "class_id": "lop3",
+          "class_name": "Lớp 3",
+          "subjects": [
+            {
+              "subject_id": "toan"
+            },
+            {
+              "subject_id": "tiengviet"
+            }
+          ]
+        },
+        {
+          "class_id": "lop4",
+          "class_name": "Lớp 4",
+          "subjects": [
+            {
+              "subject_id": "toan"
+            },
+            {
+              "subject_id": "tiengviet"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

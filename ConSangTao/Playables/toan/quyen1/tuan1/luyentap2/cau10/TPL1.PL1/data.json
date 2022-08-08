@@ -1,0 +1,10 @@
+{
+  "answers": [ "20", "30", "40" ],
+  "question": "Có khoảng \n<#>20</#>quả táo\n",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo số thích hợp vào chỗ chấm.",
+  "right_answer": [ "20" ]
+}

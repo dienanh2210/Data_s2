@@ -1,0 +1,23 @@
+[
+    {
+    "key": "T3.NLDT1.TPNL1.BH1",
+    "text": "NTKH.1. Nêu, nhận biết được ở mức độ đơn giản một số sự vật, hiện tượng, mối quan hệ thường gặp trong môi trường tự nhiên và xã hội xung quanh như về sức khoẻ và sự an toàn trong cuộc sống, mối quan hệ của học sinh với gia đình, nhà trường, cộng đồng và thế giới tự nhiên,… ",
+    "parents_code": "T3.NLDT5.TPNL1"
+    },
+    {
+    "key": "T3.NLDT1.TPNL1.BH2",
+    "text": "NTKH.2. Mô tả được một số sự vật, hiện tượng tự nhiên và xã hội xung quanh bằng các hình thức biểu đạt như nói, viết, vẽ,… ",
+    "parents_code": "T3.NLDT1.TPNL1"
+    },
+    {
+    "key": "T3.NlDT1.TPNL1.BH3",
+    "text": "NTKH.3. Trình bày được một số đặc điểm, vai trò của một số sự vật, hiện tượng thường gặp trong môi trường tự nhiên và xã hội xung quanh.",
+    "parents_code": "T2.NLDT1.TPNL1"
+    },
+ {
+    "key": "T3.NLDT1.TPNL1.BH4",
+    "text": "NTKH.4. So sánh, lựa chọn, phân loại được các sự vật, hiện tượng đơn giản trong tự nhiên và xã hội theo một số tiêu chí.",
+    "parents_code": "T3.NLDT1.TPNL1"
+    }
+
+]

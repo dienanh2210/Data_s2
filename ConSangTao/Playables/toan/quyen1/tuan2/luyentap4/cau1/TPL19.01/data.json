@@ -1,0 +1,10 @@
+{
+  "answers": [],
+  "question": "Cho phép cộng 12 + 6 = 18.\n Các số hạng là:\n<#>12</#> và <#>6</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Điền số thích hợp vào chỗ trống.",
+  "right_answer": [ "12" ,"6"]
+}

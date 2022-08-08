@@ -1,0 +1,17 @@
+[
+    {
+    "key": "T3.NLDT6.TPNL2.BH1",
+    "text": "MHH.1. Lựa chọn được các phép toán, công thức số học, sơ đồ, bảng biểu, hình vẽ để trình bày, diễn đạt (nói hoặc viết) được các nội dung, ý tưởng của tình huống xuất hiện trong bài toán thực tiễn đơn giản.",
+    "parents_code": "T3.NLDT6.TPNL2"
+    },
+    {
+    "key": "T3.NLDT6.TPNL2.BH2",
+    "text": "MHH.2. Giải quyết được những bài toán xuất hiện từ sự lựa chọn trên.",
+    "parents_code": "T3.NLDT6.TPNL2"
+    },
+{
+    "key": "T3.NLDT6.TPNL2.BH3",
+    "text": "MHH.3. Nêu được câu trả lời cho tình huống xuất hiện trong bài toán thực tiễn.",
+    "parents_code": "T3.NLDT6.TPNL2"
+    }
+]

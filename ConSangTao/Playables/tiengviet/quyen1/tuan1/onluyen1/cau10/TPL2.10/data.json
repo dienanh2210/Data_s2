@@ -1,0 +1,10 @@
+{
+  "answers": [ "bảy tuổi", "môn Toán", "lê-gô", "siêu nhân" ],
+  "question": "          Mình tên là Minh Quân. Năm nay, mình <#>bảy tuổi</#>.    Môn học\nMình giỏi nhất là <#>môn Toán</#>    .Đồ chơi mình thích nhất là\n<#>lê-gô</#>    .Con vật mình thích nhất là con chó.Ước mơ của mình\n       trở thành <#>siêu nhân</#>     để giúp đỡ thật nhiều người.",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo mỗi từ ngữ vào chỗ chấm phù hợp để hoàn thành lời giới thiệu bản thân của bạn Minh Quân",
+  "right_answer": [ "bảy tuổi", "môn Toán", "lê-gô", "siêu nhân" ]
+}

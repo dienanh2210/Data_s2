@@ -1,0 +1,10 @@
+{
+  "answers": [ "Tôi", "Trường tôi", "thích", "chơi" ],
+  "question": "       Tên tôi là Đỗ Xuân Hà. <#>Tôi</#>      là học sinh lớp 2A1. \n   <#>Trường tôi</#>      là trường Tiểu học Dịch Vọng A. Những lúc \n   rảnh rỗi, tôi <#>thích</#>      đọc sách, nghe nhạc, xem phim. \n   Tôi có thể <#>chơi</#>      đàn oóc-gan. Rất vui khi được kết bạn \n   với các bạn",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo mỗi từ ngữ vào chỗ chấm phù hợp để hoàn thành lời giới thiệu bản thân của bạn Xuân Hà",
+  "right_answer": [ "Tôi", "Trường tôi", "thích", "chơi" ]
+}

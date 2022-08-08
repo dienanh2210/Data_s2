@@ -1,0 +1,46 @@
+[
+    {
+    "key": "T1.PC5.BH1",
+    "text": "TN.1. Có ý thức giữ gìn vệ sinh, rèn luyện thân thể, chăm sóc sức khoẻ.",
+    "parents_code": "T1.PC5"
+    },
+    {
+    "key": "T1.PC5.BH2",
+    "text": "TN.2. Có ý thức sinh hoạt nền nếp.",
+    "parents_code": "T1.PC5"
+    },
+  {
+    "key": "T1.PC5.BH3",
+    "text": "TN.3. Có ý thức bảo quản, giữ gìn đồ dùng cá nhân và gia đình.",
+    "parents_code": "T1.PC5"
+    },
+  {
+    "key": "T1.PC5.BH4",
+    "text": "TN.4. Không bỏ thừa đồ ăn, thức uống; có ý thức tiết kiệm tiền bạc, điện nước trong gia đình.",
+    "parents_code": "T1.PC5"
+    },
+  {
+    "key": "T1.PC5.BH5",
+    "text": "TN.5. Tự giác thực hiện nghiêm túc nội quy của nhà trường và các quy định, quy ước của tập thể; giữ vệ sinh chung; bảo vệ của công.",
+    "parents_code": "T1.PC5"
+    },
+  {
+    "key": "T1.PC5.BH6",
+    "text": "TN.6. Không gây mất trật tự, cãi nhau, đánh nhau.",
+    "parents_code": "T1.PC5"
+    },
+      {
+    "key": "T1.PC5.BH7",
+    "text": "TN.7. Nhắc nhở bạn bè chấp hành nội quy trường lớp; nhắc nhở người thân chấp hành các quy định, quy ước nơi công cộng.",
+    "parents_code": "T1.PC5"
+    },
+ {
+    "key": "T1.PC5.BH8",
+    "text": "TN.8. Có trách nhiệm với công việc được giao ở trường, ở lớp.",
+    "parents_code": "T1.PC5"
+    }
+    
+    
+    
+    
+]

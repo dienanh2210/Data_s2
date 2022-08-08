@@ -1,0 +1,13 @@
+{
+    "list": [
+        {
+            "key": "M1.NLC1",
+            "text": "Số tự nhiên",
+        "parents_code": "M1"
+        },
+        {
+            "key": "M1.NLC2",
+            "text": "Các phép tính với số tự nhiên"
+        }
+        ]
+}

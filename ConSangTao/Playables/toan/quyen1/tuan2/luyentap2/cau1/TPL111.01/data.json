@@ -1,0 +1,10 @@
+{
+  "answers": [ "1 dm", "6 cm", "15 cm" ],
+  "question": "<#>nỗi vât vả</#> \n <#>ngoan</#>\n <#>chăm chỉ</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo thả để được kết quả đúng.",
+  "right_answer": [ "6 cm", "1 dm", "15 cm" ]
+}

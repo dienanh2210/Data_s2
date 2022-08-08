@@ -1,0 +1,10 @@
+{
+  "answers": [ "17", "5", "7", "15" ],
+  "question": "4 + 6 + 7 = <#>17</#> \n 18 - 8 - 5 = <#>5</#>",
+  "title": "Kéo dấu thích hợp vào chỗ chấm.",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "right_answer": [ "17", "5" ]
+}

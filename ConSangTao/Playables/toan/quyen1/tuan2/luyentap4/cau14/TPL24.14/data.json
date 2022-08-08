@@ -1,0 +1,10 @@
+{
+  "answers": [ "" ],
+  "question": "Em có tất cả số viên kẹo là:\n<#>12</#> <#>+</#> <#>7</#> <#>=</#> <#>19</#> (viên kẹo)",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống.",
+  "right_answer": [ "12", "+","7","=","19" ]
+}

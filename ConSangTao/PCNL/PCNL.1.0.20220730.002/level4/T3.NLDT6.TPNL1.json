@@ -1,0 +1,17 @@
+[
+    {
+    "key": "T3.NLDT6.TPNL1.BH1",
+    "text": "TDLL.1. Thực hiện được các thao tác tư duy (ở mức độ đơn giản), đặc biệt biết quan sát, tìm kiếm sự tương đồng và khác biệt trong những tình huống quen thuộc và mô tả được kết quả của việc quan sát.",
+    "parents_code": "T3.NLDT6.TPNL1"
+    },
+    {
+    "key": "T3.NLDT6.TPNL1.BH2",
+    "text": "TDLL.2. Nêu được chứng cứ, lí lẽ và biết lập luận hợp lí trước khi kết luận.",
+    "parents_code": "T3.NLDT6.TPNL1"
+    },
+{
+    "key": "T3.NLDT6.TPNL1.BH3",
+    "text": "TDLL.3. Nêu và trả lời được câu hỏi khi lập luận, giải quyết vấn đề. Bước đầu chỉ ra được chứng cứ và lập luận có cơ sở, có lí lẽ trước khi kết luận.",
+    "parents_code": "T3.NLDT6.TPNL1"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+    "key": "T1",
+    "text": "Phẩm chất",
+    "parents_code": ""
+    },
+    {
+    "key": "T2",
+    "text": "Năng lực chung",
+    "parents_code": ""
+    },
+    {
+    "key": "T3",
+    "text": "Năng lực đặc thù",
+    "parents_code": ""
+    }
+]

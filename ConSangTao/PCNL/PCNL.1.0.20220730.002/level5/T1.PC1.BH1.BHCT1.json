@@ -1,0 +1,13 @@
+[
+    {
+    "key": "T1.PC1.BH1.BHCT1.BHCTNL1",
+    "text": "Biểu hiện 1",
+    "parents_code": "T1.PC1.BHCT1"
+    },
+    {
+    "key": "T1.PC1.BH1.BHCT1.BHCTNL2",
+    "text": "Biểu hiện 2",
+    "parents_code": "T1.PC1.BH1.BHCT1"
+    }
+   
+]

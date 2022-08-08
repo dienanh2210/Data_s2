@@ -1,0 +1,10 @@
+﻿{
+  "answers": [ "A1", "A2", "A3" ],
+  "question": "Q1 ",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Dựa theo thứ tự bảng chữ cái, chọn chữ phù hợp với ô trống trên toa tàu.",
+  "right_answer": [ "A2" ]
+}

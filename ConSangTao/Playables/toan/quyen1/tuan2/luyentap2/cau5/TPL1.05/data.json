@@ -1,0 +1,10 @@
+{
+  "answers": [ "đỏ", "xanh"],
+  "question": "Sợi dây màu <#>đỏ</#>  dài 1dm \nSợi dây màu <#>xanh</#>  dài 8cm",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": false,
+  "title": "Kéo thả từ thích hợp vào chỗ chấm.",
+  "right_answer": [ "đỏ", "xanh" ]
+}

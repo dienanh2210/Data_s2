@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "Trong phép trừ 18-6=12:\n     <#>12</#>   được gọi là hiệu.\n             <#>18-6</#>   cũng được gọi là hiệu.",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Điền vào chỗ trống theo mẫu.",
+  "right_answer": [ "12", "18-6" ]
+}

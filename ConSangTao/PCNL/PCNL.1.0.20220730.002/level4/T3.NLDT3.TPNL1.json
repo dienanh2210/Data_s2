@@ -1,0 +1,38 @@
+[
+    {
+    "key": "T3.NLDT3.TPNL1.BH1",
+    "text": "QSTM.1. Nhận biết được một số yếu tố thẩm mĩ cơ bản trong đời sống và ở sản phẩm, tác phẩm mĩ thuật.",
+    "parents_code": "T3.NLDT3.TPNL1"
+    },
+    {
+    "key": "T3.NLDT3.TPNL1.BH2",
+    "text": "QSTM.2. Nhận biết được một số yếu tố tạo hình ở đối tượng thẩm mĩ.",
+    "parents_code": "T3.NLDT3.TPNL1"
+    },
+{
+    "key": "T3.NLDT3.TPNL1.BH3",
+    "text": "QSTM.3. Nhận biết được dấu hiệu của một số nguyên lí tạo hình ở sản phẩm, tác phẩm mĩ thuật.",
+    "parents_code": "T3.NLDT3.TPNL1"
+    },
+{
+    "key": "T3.NLDT3.TPNL1.BH4",
+    "text": "NTTM.1. Bước đầu cảm nhận được vẻ đẹp của đối tượng thẩm mĩ",
+    "parents_code": "T3.NLDT3.TPNL1"
+    },
+{
+    "key": "T3.NLDT3.TPNL1.BH5",
+    "text": "NTTM.2. Nhận biết được chủ đề của sản phẩm, tác phẩm mĩ thuật.",
+    "parents_code": "T3.NLDT3.TPNL1"
+    },
+{
+    "key": "T3.NLDT3.TPNL1.BH6",
+    "text": "NTTM.3. Bước đầu nhận biết được giá trị của sản phẩm, tác phẩm mĩ thuật trong đời sống.",
+    "parents_code": "T3.NLDT3.TPNL1"
+    },
+{
+    "key": "T3.NLDT3.TPNL1.BH7",
+    "text": "NTTM.4. Biết liên tưởng vẻ đẹp của đối tượng thẩm mĩ với thực hành sáng tạo.",
+    "parents_code": "T3.NLDT3.TPNL1"
+    }
+
+]

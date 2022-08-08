@@ -1,0 +1,10 @@
+{
+  "answers": [ "2" ],
+  "question": "Ngày thứ Hai là ngày  <#>8</#>\nNgày thứ Ba là ngày   <#>9</#>\nNgày thứ Năm là ngày   <#>11</#>",
+  "redings": "",
+  "anim": false,
+  "soundAnim": false,
+  "center": true,
+  "title": "Dựa vào hình sau, điền ngày vào chỗ trống sao cho phù hợp.",
+  "right_answer": [ "8", "9", "11" ]
+}

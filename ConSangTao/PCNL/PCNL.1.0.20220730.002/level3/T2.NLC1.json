@@ -1,0 +1,68 @@
+[
+    {
+    "key": "T1.NLC1.BH1",
+    "text": "TCTH.1. Tự làm được những việc của mình ở nhà và ở trường theo sự phân công, hướng dẫn.",
+    "parents_code": "T1.NLC1"
+    },
+    {
+    "key": "T1.NLC1.BH2",
+    "text": "TCTH.2. Có ý thức về quyền và mong muốn của bản thân; bước đầu biết cách trình bày và thực hiện một số quyền lợi và nhu cầu chính đáng.",
+    "parents_code": "T1.NLC1"
+    },
+    {
+    "key": "T1.NLC1.BH3",
+    "text": "TCTH.3. Nhận biết và bày tỏ được tình cảm, cảm xúc của bản thân; biết chia sẻ tình cảm, cảm xúc của bản thân với người khác.
+",
+    "parents_code": "T1.NLC1"
+    },
+ {
+    "key": "T1.NLC1.BH4",
+    "text": "TCTH.4. Hoà nhã với mọi người; không nói hoặc làm những điều xúc phạm người khác.",
+    "parents_code": "T1.NLC1"
+    },
+ {
+    "key": "T1.NLC1.BH5",
+    "text": "TCTH.5. Thực hiện đúng kế hoạch học tập, lao động; không mải chơi, làm ảnh hưởng đến việc học và các việc khác.",
+    "parents_code": "T1.NLC1"
+    },
+ {
+    "key": "T1.NLC1.BH6",
+    "text": "TCTH.6. Tìm được những cách giải quyết khác nhau cho cùng một vấn đề.",
+    "parents_code": "T1.NLC1"
+    },
+ {
+    "key": "T1.NLC1.BH7",
+    "text": "TCTH.7. Thực hiện được các nhiệm vụ khác nhau với những yêu cầu khác nhau.",
+    "parents_code": "T1.NLC1"
+    },
+ {
+    "key": "T1.NLC1.BH8",
+    "text": "TCTH.8. Bộc lộ được sở thích, khả năng của bản thân.",
+    "parents_code": "T1.NLC1"
+    },
+ {
+    "key": "T1.NLC1.BH9",
+    "text": "TCTH.9. Biết tên, hoạt động chính và vai trò của một số nghề nghiệp; liên hệ được những hiểu biết đó với nghề nghiệp của người thân trong gia đình.",
+    "parents_code": "T1.NLC1"
+    },
+{
+    "key": "T1.NLC1.BH10",
+    "text": "TCTH.10. Có ý thức tổng kết và trình bày được những điều đã học.",
+    "parents_code": "T1.NLC1"
+    },
+{
+    "key": "T1.NLC1.BH11",
+    "text": "TCTH.11. Nhận ra và sửa chữa sai sót trong bài kiểm tra qua lời nhận xét của thầy cô.",
+    "parents_code": "T1.NLC1"
+    },
+{
+    "key": "T1.NLC1.BH12",
+    "text": "TCTH.12. Có ý thức học hỏi thầy cô, bạn bè và người khác để củng cố và mở rộng hiểu biết.",
+    "parents_code": "T1.NLC1"
+    },
+{
+    "key": "T1.NLC1.BH13",
+    "text": "TCTH.13. Có ý thức học tập và làm theo những gương người tốt.",
+    "parents_code": "T1.NLC1"
+    }
+]

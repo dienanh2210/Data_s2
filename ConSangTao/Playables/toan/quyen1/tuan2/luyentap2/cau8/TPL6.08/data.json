@@ -1,0 +1,11 @@
+{
+  "answers": [ "A1", "A2", "A3 ", "A4" ],
+  "question": "Q1",
+  "redings": "",
+  "anim": false,
+  "center": false,
+  "soundAnim":false,
+  "title": "Chọn đáp án đúng.",
+  "right_answer": [ "A4" ]
+}
+

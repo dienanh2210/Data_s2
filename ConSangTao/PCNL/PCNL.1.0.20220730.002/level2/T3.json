@@ -1,0 +1,37 @@
+[
+    {
+    "key": "T3.NLĐT1",
+    "text": "Khoa học",
+    "parents_code": "T3"
+    },
+    {
+    "key": "T3.NLĐT2",
+    "text": "Công nghệ",
+    "parents_code": "T3"
+    },
+ {
+    "key": "T3.NLĐT3",
+    "text": "Thẩm mỹ",
+    "parents_code": "T3"
+    },
+ {
+    "key": "T3.NLĐT4",
+    "text": "Thể chất",
+    "parents_code": "T3"
+    },
+ {
+    "key": "T3.NLĐT5",
+    "text": "Tin học",
+    "parents_code": "T3"
+    },
+{
+    "key": "T3.NLĐT6",
+    "text": "Toán học",
+    "parents_code": "T3"
+    },
+{
+    "key": "T3.NLĐT7",
+    "text": "Ngôn ngữ",
+    "parents_code": "T3"
+    }
+]
